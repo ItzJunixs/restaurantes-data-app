@@ -1,0 +1,2116 @@
+﻿id_pedido,columna,tipo_error,valor_original,valor_sucio
+PED-00659,metodo_pago,faltante,Tarjeta débito,nan
+PED-00921,metodo_pago,faltante,Nequi,nan
+PED-01901,metodo_pago,faltante,Transferencia,nan
+PED-01257,metodo_pago,faltante,Efectivo,nan
+PED-01099,metodo_pago,faltante,Daviplata,nan
+PED-00535,metodo_pago,faltante,Tarjeta crédito,nan
+PED-01341,metodo_pago,faltante,Efectivo,nan
+PED-01108,metodo_pago,faltante,Daviplata,nan
+PED-01144,metodo_pago,faltante,Efectivo,nan
+PED-00843,metodo_pago,faltante,Efectivo,nan
+PED-01441,metodo_pago,faltante,Efectivo,nan
+PED-01653,metodo_pago,faltante,Efectivo,nan
+PED-00323,metodo_pago,faltante,Tarjeta débito,nan
+PED-01159,metodo_pago,faltante,Tarjeta crédito,nan
+PED-00398,metodo_pago,faltante,Tarjeta débito,nan
+PED-00541,metodo_pago,faltante,Tarjeta débito,nan
+PED-00951,metodo_pago,faltante,Nequi,nan
+PED-01535,metodo_pago,faltante,Transferencia,nan
+PED-00183,metodo_pago,faltante,Efectivo,nan
+PED-01834,metodo_pago,faltante,Efectivo,nan
+PED-01424,metodo_pago,faltante,Tarjeta débito,nan
+PED-00491,metodo_pago,faltante,Tarjeta débito,nan
+PED-00701,metodo_pago,faltante,Transferencia,nan
+PED-01127,metodo_pago,faltante,Efectivo,nan
+PED-00211,metodo_pago,faltante,Efectivo,nan
+PED-00109,metodo_pago,faltante,Efectivo,nan
+PED-01231,metodo_pago,faltante,Tarjeta crédito,nan
+PED-00956,metodo_pago,faltante,Daviplata,nan
+PED-00817,metodo_pago,faltante,Nequi,nan
+PED-00155,metodo_pago,faltante,Efectivo,nan
+PED-01144,tipo_cliente,faltante,Ocasional,nan
+PED-00560,tipo_cliente,faltante,Ocasional,nan
+PED-01078,tipo_cliente,faltante,Ocasional,nan
+PED-01177,tipo_cliente,faltante,Ocasional,nan
+PED-01052,tipo_cliente,faltante,Ocasional,nan
+PED-01236,tipo_cliente,faltante,Frecuente,nan
+PED-01515,tipo_cliente,faltante,Nuevo,nan
+PED-00153,tipo_cliente,faltante,Frecuente,nan
+PED-01287,tipo_cliente,faltante,Nuevo,nan
+PED-00821,tipo_cliente,faltante,Frecuente,nan
+PED-00640,tipo_cliente,faltante,Ocasional,nan
+PED-00127,tipo_cliente,faltante,Frecuente,nan
+PED-01672,tipo_cliente,faltante,Ocasional,nan
+PED-01347,tipo_cliente,faltante,Ocasional,nan
+PED-01039,tipo_cliente,faltante,Ocasional,nan
+PED-01457,tipo_cliente,faltante,Ocasional,nan
+PED-00449,tipo_cliente,faltante,Frecuente,nan
+PED-01372,tipo_cliente,faltante,Ocasional,nan
+PED-01429,tipo_cliente,faltante,Ocasional,nan
+PED-00512,tipo_cliente,faltante,Ocasional,nan
+PED-01546,tipo_cliente,faltante,Nuevo,nan
+PED-00662,tipo_cliente,faltante,Nuevo,nan
+PED-01257,tipo_cliente,faltante,Ocasional,nan
+PED-00358,tipo_cliente,faltante,Ocasional,nan
+PED-01690,tipo_cliente,faltante,Frecuente,nan
+PED-00515,tipo_cliente,faltante,Ocasional,nan
+PED-01670,tipo_cliente,faltante,Ocasional,nan
+PED-00338,tipo_cliente,faltante,Frecuente,nan
+PED-01677,tipo_cliente,faltante,Ocasional,nan
+PED-00267,tipo_cliente,faltante,Ocasional,nan
+PED-00269,ciudad,faltante,Medellín,nan
+PED-00135,ciudad,faltante,Bogotá,nan
+PED-00330,ciudad,faltante,Bogotá,nan
+PED-01669,ciudad,faltante,Medellín,nan
+PED-01846,ciudad,faltante,Bogotá,nan
+PED-00191,ciudad,faltante,Bogotá,nan
+PED-01048,ciudad,faltante,Medellín,nan
+PED-01011,ciudad,faltante,Bogotá,nan
+PED-01808,ciudad,faltante,Bogotá,nan
+PED-01172,ciudad,faltante,Bogotá,nan
+PED-01455,ciudad,faltante,Medellín,nan
+PED-00968,ciudad,faltante,Medellín,nan
+PED-00602,ciudad,faltante,Neiva,nan
+PED-00763,ciudad,faltante,Bogotá,nan
+PED-00092,ciudad,faltante,Medellín,nan
+PED-01261,ciudad,faltante,Bucaramanga,nan
+PED-00033,ciudad,faltante,Medellín,nan
+PED-00744,ciudad,faltante,Medellín,nan
+PED-00922,ciudad,faltante,Neiva,nan
+PED-00946,ciudad,faltante,Neiva,nan
+PED-01383,ciudad,faltante,Cali,nan
+PED-00139,ciudad,faltante,Ibagué,nan
+PED-01236,ciudad,faltante,Bogotá,nan
+PED-00197,ciudad,faltante,Medellín,nan
+PED-01430,ciudad,faltante,Neiva,nan
+PED-01306,ciudad,faltante,Neiva,nan
+PED-00664,ciudad,faltante,Cali,nan
+PED-00513,ciudad,faltante,Cali,nan
+PED-00295,ciudad,faltante,Bogotá,nan
+PED-01865,ciudad,faltante,Cali,nan
+PED-01261,plato,faltante,Limonada de coco,nan
+PED-01423,plato,faltante,Asado huilense,nan
+PED-00795,plato,faltante,Asado huilense,nan
+PED-00380,plato,faltante,Ajiaco santafereño,nan
+PED-00149,plato,faltante,Jugo natural,nan
+PED-01552,plato,faltante,Lechona tolimense,nan
+PED-00416,plato,faltante,Hamburguesa artesanal,nan
+PED-00229,plato,faltante,Lechona tolimense,nan
+PED-00355,plato,faltante,Ajiaco santafereño,nan
+PED-00890,plato,faltante,Limonada de coco,nan
+PED-01981,plato,faltante,Ajiaco santafereño,nan
+PED-01052,plato,faltante,Ajiaco santafereño,nan
+PED-00186,plato,faltante,Jugo natural,nan
+PED-01809,plato,faltante,Mojarra frita,nan
+PED-00237,plato,faltante,Bandeja paisa,nan
+PED-00208,plato,faltante,Brownie con helado,nan
+PED-00508,plato,faltante,Cerveza nacional,nan
+PED-01432,plato,faltante,Bandeja paisa,nan
+PED-01192,plato,faltante,Mojarra frita,nan
+PED-01684,plato,faltante,Salchipapa,nan
+PED-01320,plato,faltante,Brownie con helado,nan
+PED-00824,plato,faltante,Perro caliente especial,nan
+PED-00953,plato,faltante,Jugo natural,nan
+PED-00034,plato,faltante,Brownie con helado,nan
+PED-00206,plato,faltante,Lechona tolimense,nan
+PED-01993,plato,faltante,Brownie con helado,nan
+PED-00325,plato,faltante,Patacones con hogao,nan
+PED-01919,plato,faltante,Ajiaco santafereño,nan
+PED-01624,plato,faltante,Limonada de coco,nan
+PED-01889,plato,faltante,Salchipapa,nan
+PED-00259,precio_unitario,faltante,8500,nan
+PED-00093,precio_unitario,faltante,8500,nan
+PED-01598,precio_unitario,faltante,24000,nan
+PED-00599,precio_unitario,faltante,29700,nan
+PED-00225,precio_unitario,faltante,12000,nan
+PED-00949,precio_unitario,faltante,38000,nan
+PED-00028,precio_unitario,faltante,41800,nan
+PED-01683,precio_unitario,faltante,6500,nan
+PED-00207,precio_unitario,faltante,9000,nan
+PED-00584,precio_unitario,faltante,7500,nan
+PED-01631,precio_unitario,faltante,26000,nan
+PED-01404,precio_unitario,faltante,6500,nan
+PED-01879,precio_unitario,faltante,7500,nan
+PED-00120,precio_unitario,faltante,7500,nan
+PED-01622,precio_unitario,faltante,28600,nan
+PED-01215,precio_unitario,faltante,8200,nan
+PED-01211,precio_unitario,faltante,8200,nan
+PED-00673,precio_unitario,faltante,9500,nan
+PED-01367,precio_unitario,faltante,28600,nan
+PED-00594,precio_unitario,faltante,9500,nan
+PED-00197,precio_unitario,faltante,10400,nan
+PED-01223,precio_unitario,faltante,7700,nan
+PED-00368,precio_unitario,faltante,6500,nan
+PED-01326,precio_unitario,faltante,9900,nan
+PED-01597,precio_unitario,faltante,16000,nan
+PED-00462,precio_unitario,faltante,17600,nan
+PED-00270,precio_unitario,faltante,13200,nan
+PED-00650,precio_unitario,faltante,9900,nan
+PED-01159,precio_unitario,faltante,9900,nan
+PED-01426,precio_unitario,faltante,12000,nan
+PED-01944,fecha,faltante,2026-09-24,nan
+PED-00085,fecha,faltante,2026-01-14,nan
+PED-01752,fecha,faltante,2026-08-29,nan
+PED-01763,fecha,faltante,2026-08-31,nan
+PED-00469,fecha,faltante,2026-03-09,nan
+PED-01160,fecha,faltante,2026-06-10,nan
+PED-01110,fecha,faltante,2026-06-04,nan
+PED-01244,fecha,faltante,2026-06-21,nan
+PED-00072,fecha,faltante,2026-01-11,nan
+PED-01667,fecha,faltante,2026-08-18,nan
+PED-01351,fecha,faltante,2026-07-06,nan
+PED-02000,fecha,faltante,2026-09-30,nan
+PED-00787,fecha,faltante,2026-04-20,nan
+PED-01180,fecha,faltante,2026-06-13,nan
+PED-01312,fecha,faltante,2026-06-30,nan
+PED-01571,fecha,faltante,2026-08-04,nan
+PED-01984,fecha,faltante,2026-09-28,nan
+PED-00395,fecha,faltante,2026-02-26,nan
+PED-00776,fecha,faltante,2026-04-19,nan
+PED-01892,fecha,faltante,2026-09-16,nan
+PED-00985,fecha,faltante,2026-05-18,nan
+PED-00375,fecha,faltante,2026-02-24,nan
+PED-01580,fecha,faltante,2026-08-04,nan
+PED-01946,fecha,faltante,2026-09-24,nan
+PED-01940,fecha,faltante,2026-09-22,nan
+PED-00452,fecha,faltante,2026-03-07,nan
+PED-01724,fecha,faltante,2026-08-26,nan
+PED-01733,fecha,faltante,2026-08-27,nan
+PED-01340,fecha,faltante,2026-07-04,nan
+PED-00532,fecha,faltante,2026-03-18,nan
+PED-01727,hora,faltante,14:08,nan
+PED-00059,hora,faltante,20:04,nan
+PED-01527,hora,faltante,12:12,nan
+PED-00345,hora,faltante,11:42,nan
+PED-00882,hora,faltante,22:26,nan
+PED-00677,hora,faltante,13:43,nan
+PED-00315,hora,faltante,21:49,nan
+PED-00918,hora,faltante,13:21,nan
+PED-00403,hora,faltante,11:37,nan
+PED-00075,hora,faltante,12:25,nan
+PED-00474,hora,faltante,13:37,nan
+PED-00532,hora,faltante,19:29,nan
+PED-01120,hora,faltante,12:24,nan
+PED-01334,hora,faltante,12:20,nan
+PED-01835,hora,faltante,12:06,nan
+PED-01959,hora,faltante,09:20,nan
+PED-01912,hora,faltante,19:41,nan
+PED-01874,hora,faltante,18:12,nan
+PED-00591,hora,faltante,12:02,nan
+PED-01786,hora,faltante,14:37,nan
+PED-00341,hora,faltante,20:33,nan
+PED-01388,hora,faltante,14:35,nan
+PED-00174,hora,faltante,18:31,nan
+PED-00589,hora,faltante,20:55,nan
+PED-00635,hora,faltante,18:57,nan
+PED-00443,hora,faltante,10:15,nan
+PED-00358,hora,faltante,14:30,nan
+PED-01669,hora,faltante,20:55,nan
+PED-00709,hora,faltante,20:00,nan
+PED-00602,hora,faltante,12:46,nan
+PED-00689,ciudad,formato_texto,Neiva,NEIVA
+PED-00347,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-01594,ciudad,formato_texto,Cali,  Cali 
+PED-01415,ciudad,formato_texto,Bogotá,bogotá
+PED-00800,ciudad,formato_texto,Bogotá,bogotá
+PED-00985,ciudad,formato_texto,Ibagué,IBAGUÉ
+PED-01480,ciudad,formato_texto,Medellín,Medellín
+PED-01815,ciudad,formato_texto,Bucaramanga,Bucaramanga
+PED-00216,ciudad,formato_texto,Bogotá,Bogota
+PED-01639,ciudad,formato_texto,Medellín,MEDELLÍN
+PED-01165,ciudad,formato_texto,Neiva,  Neiva 
+PED-00656,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-01258,ciudad,formato_texto,Neiva,neiva
+PED-00981,ciudad,formato_texto,Medellín,Medellín
+PED-00131,ciudad,formato_texto,Cali,CALI
+PED-01677,ciudad,formato_texto,Neiva,Neiva
+PED-01511,ciudad,formato_texto,Neiva,neiva
+PED-00847,ciudad,formato_texto,Bogotá,bogotá
+PED-00788,ciudad,formato_texto,Bogotá,bogotá
+PED-00363,ciudad,formato_texto,Bucaramanga,bucaramanga
+PED-00865,ciudad,formato_texto,Bogotá,bogotá
+PED-00451,ciudad,formato_texto,Bogotá,Bogota
+PED-00472,ciudad,formato_texto,Neiva,  Neiva 
+PED-01208,ciudad,formato_texto,Cali,cali
+PED-01359,ciudad,formato_texto,Bogotá,Bogota
+PED-01846,ciudad,formato_texto,nan,nan
+PED-01981,ciudad,formato_texto,Medellín,medellín
+PED-00830,ciudad,formato_texto,Neiva,  Neiva 
+PED-00921,ciudad,formato_texto,Neiva,  Neiva 
+PED-01137,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-00214,ciudad,formato_texto,Neiva,Neiva
+PED-01409,ciudad,formato_texto,Medellín,MEDELLÍN
+PED-00225,ciudad,formato_texto,Neiva,  Neiva 
+PED-01640,ciudad,formato_texto,Bucaramanga,bucaramanga
+PED-01870,ciudad,formato_texto,Neiva,Neiva
+PED-00952,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-01267,ciudad,formato_texto,Cali,  Cali 
+PED-01729,ciudad,formato_texto,Bucaramanga,  Bucaramanga 
+PED-00136,ciudad,formato_texto,Bucaramanga,  Bucaramanga 
+PED-00971,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-01907,ciudad,formato_texto,Neiva,Neiva
+PED-00138,ciudad,formato_texto,Bogotá,Bogota
+PED-00487,ciudad,formato_texto,Bogotá,bogotá
+PED-01487,ciudad,formato_texto,Pitalito,Pitalito
+PED-01121,ciudad,formato_texto,Pitalito,  Pitalito 
+PED-00561,ciudad,formato_texto,Bogotá,bogotá
+PED-01629,ciudad,formato_texto,Medellín,  Medellín 
+PED-00411,ciudad,formato_texto,Medellín,Medellín
+PED-01619,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-00027,ciudad,formato_texto,Neiva,Neiva
+PED-00943,ciudad,formato_texto,Ibagué,Ibague
+PED-01796,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-01420,ciudad,formato_texto,Medellín,  Medellín 
+PED-01967,ciudad,formato_texto,Bogotá,bogotá
+PED-01984,ciudad,formato_texto,Medellín,  Medellín 
+PED-00559,ciudad,formato_texto,Medellín,  Medellín 
+PED-00290,ciudad,formato_texto,Cali,cali
+PED-00205,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-00156,ciudad,formato_texto,Bogotá,bogotá
+PED-01399,ciudad,formato_texto,Bogotá,bogotá
+PED-01743,ciudad,formato_texto,Medellín,Medellín
+PED-00122,ciudad,formato_texto,Medellín,MEDELLÍN
+PED-01614,ciudad,formato_texto,Pitalito,  Pitalito 
+PED-00091,ciudad,formato_texto,Neiva,NEIVA
+PED-01455,ciudad,formato_texto,nan,NAN
+PED-01966,ciudad,formato_texto,Neiva,Neiva
+PED-01290,ciudad,formato_texto,Neiva,neiva
+PED-00318,ciudad,formato_texto,Neiva,neiva
+PED-01758,ciudad,formato_texto,Bogotá,bogotá
+PED-00899,ciudad,formato_texto,Ibagué,ibagué
+PED-00467,ciudad,formato_texto,Cali,Cali
+PED-01171,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-00826,ciudad,formato_texto,Pitalito,pitalito
+PED-01581,ciudad,formato_texto,Neiva,NEIVA
+PED-01246,ciudad,formato_texto,Medellín,MEDELLÍN
+PED-00229,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-01272,ciudad,formato_texto,Neiva,  Neiva 
+PED-00227,ciudad,formato_texto,Ibagué,Ibague
+PED-00488,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-01307,ciudad,formato_texto,Bogotá,bogotá
+PED-01164,ciudad,formato_texto,Neiva,neiva
+PED-00089,ciudad,formato_texto,Neiva,Neiva
+PED-00567,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-00633,ciudad,formato_texto,Bucaramanga,bucaramanga
+PED-01754,ciudad,formato_texto,Medellín,medellín
+PED-01370,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-00069,ciudad,formato_texto,Bogotá,Bogota
+PED-00793,ciudad,formato_texto,Medellín,MEDELLÍN
+PED-01593,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-01356,ciudad,formato_texto,Bucaramanga,BUCARAMANGA
+PED-00353,ciudad,formato_texto,Neiva,neiva
+PED-00126,ciudad,formato_texto,Neiva,  Neiva 
+PED-00941,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-00300,ciudad,formato_texto,Neiva,Neiva
+PED-00641,ciudad,formato_texto,Neiva,neiva
+PED-01913,ciudad,formato_texto,Medellín,medellín
+PED-01923,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-01807,ciudad,formato_texto,Cali,Cali
+PED-00165,ciudad,formato_texto,Neiva,neiva
+PED-01691,ciudad,formato_texto,Medellín,medellín
+PED-01921,ciudad,formato_texto,Bucaramanga,Bucaramanga
+PED-01079,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-01745,ciudad,formato_texto,Neiva,Neiva
+PED-00337,ciudad,formato_texto,Cali,Cali
+PED-00029,ciudad,formato_texto,Neiva,NEIVA
+PED-01065,ciudad,formato_texto,Bucaramanga,bucaramanga
+PED-00657,ciudad,formato_texto,Bogotá,Bogota
+PED-00945,ciudad,formato_texto,Pitalito,pitalito
+PED-00970,ciudad,formato_texto,Bogotá,Bogota
+PED-01843,ciudad,formato_texto,Bogotá,bogotá
+PED-00137,ciudad,formato_texto,Pitalito,pitalito
+PED-01348,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-01879,ciudad,formato_texto,Bucaramanga,  Bucaramanga 
+PED-00763,ciudad,formato_texto,nan,nan
+PED-00924,ciudad,formato_texto,Bogotá,bogotá
+PED-00697,ciudad,formato_texto,Cali,cali
+PED-00434,ciudad,formato_texto,Medellín,  Medellín 
+PED-00850,ciudad,formato_texto,Bogotá,Bogota
+PED-01421,ciudad,formato_texto,Pitalito,pitalito
+PED-01170,ciudad,formato_texto,Ibagué,Ibague
+PED-00664,ciudad,formato_texto,nan,  nan 
+PED-01685,ciudad,formato_texto,Neiva,neiva
+PED-01442,ciudad,formato_texto,Pitalito,Pitalito
+PED-01449,ciudad,formato_texto,Cali,  Cali 
+PED-00934,ciudad,formato_texto,Neiva,neiva
+PED-00151,ciudad,formato_texto,Neiva,neiva
+PED-01716,ciudad,formato_texto,Bogotá,Bogota
+PED-01866,ciudad,formato_texto,Cali,Cali
+PED-01888,ciudad,formato_texto,Medellín,MEDELLÍN
+PED-01483,ciudad,formato_texto,Neiva,  Neiva 
+PED-00837,ciudad,formato_texto,Neiva,neiva
+PED-01380,ciudad,formato_texto,Cali,  Cali 
+PED-01518,ciudad,formato_texto,Medellín,medellín
+PED-00965,ciudad,formato_texto,Cali,Cali
+PED-01583,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-00045,ciudad,formato_texto,Pitalito,PITALITO
+PED-00387,ciudad,formato_texto,Neiva,Neiva
+PED-01482,ciudad,formato_texto,Neiva,NEIVA
+PED-01555,ciudad,formato_texto,Cali,CALI
+PED-01930,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-00789,ciudad,formato_texto,Medellín,MEDELLÍN
+PED-00598,ciudad,formato_texto,Neiva,neiva
+PED-00926,ciudad,formato_texto,Bogotá,bogotá
+PED-00845,ciudad,formato_texto,Medellín,  Medellín 
+PED-00810,ciudad,formato_texto,Neiva,neiva
+PED-01227,ciudad,formato_texto,Neiva,neiva
+PED-01107,ciudad,formato_texto,Bucaramanga,  Bucaramanga 
+PED-00950,ciudad,formato_texto,Bucaramanga,BUCARAMANGA
+PED-01347,ciudad,formato_texto,Medellín,  Medellín 
+PED-01278,ciudad,formato_texto,Bucaramanga,Bucaramanga
+PED-00947,ciudad,formato_texto,Bucaramanga,Bucaramanga
+PED-01709,ciudad,formato_texto,Neiva,Neiva
+PED-01178,ciudad,formato_texto,Neiva,neiva
+PED-01864,ciudad,formato_texto,Bogotá,BOGOTÁ
+PED-01376,ciudad,formato_texto,Ibagué,IBAGUÉ
+PED-01106,ciudad,formato_texto,Neiva,neiva
+PED-00626,ciudad,formato_texto,Bogotá,  Bogotá 
+PED-00305,ciudad,formato_texto,Bucaramanga,BUCARAMANGA
+PED-00150,ciudad,formato_texto,Bogotá,Bogota
+PED-01497,ciudad,formato_texto,Neiva,neiva
+PED-00592,canal,formato_texto,Para llevar,Para Llevar
+PED-01227,canal,formato_texto,Salón,Salon
+PED-00083,canal,formato_texto,Salón,SALÓN
+PED-00439,canal,formato_texto,Rappi,Rappi 
+PED-01632,canal,formato_texto,Domicilio propio,Domicilio propio 
+PED-00040,canal,formato_texto,Domicilio propio,Domicilio
+PED-00608,canal,formato_texto,Domicilio propio,Domicilio
+PED-00413,canal,formato_texto,Rappi,RAPPI
+PED-01743,canal,formato_texto,Rappi,rappi app
+PED-00472,canal,formato_texto,Salón,Salón 
+PED-01712,canal,formato_texto,Rappi,RAPPI
+PED-00201,canal,formato_texto,Domicilio propio,Domicilio propio 
+PED-00008,canal,formato_texto,Domicilio propio,DOMICILIO PROPIO
+PED-00816,canal,formato_texto,Para llevar,Para llevar 
+PED-00117,canal,formato_texto,Salón,Salon
+PED-00833,canal,formato_texto,Domicilio propio,DOMICILIO PROPIO
+PED-00312,canal,formato_texto,Salón,salón
+PED-00896,canal,formato_texto,Para llevar,PARA LLEVAR
+PED-01174,canal,formato_texto,Salón,Salon
+PED-01362,canal,formato_texto,Domicilio propio,DOMICILIO PROPIO
+PED-00465,canal,formato_texto,Salón,SALÓN
+PED-00598,canal,formato_texto,Domicilio propio,DOMICILIO PROPIO
+PED-01098,canal,formato_texto,Domicilio propio,Domicilio
+PED-01121,canal,formato_texto,Para llevar,PARA LLEVAR
+PED-01388,canal,formato_texto,Salón,SALÓN
+PED-01189,canal,formato_texto,Rappi,Rappi 
+PED-01552,canal,formato_texto,Domicilio propio,DOMICILIO PROPIO
+PED-01540,canal,formato_texto,Para llevar,PARA LLEVAR
+PED-01431,canal,formato_texto,Salón,salón
+PED-01370,canal,formato_texto,Domicilio propio,Domicilio
+PED-00532,canal,formato_texto,Rappi,rappi app
+PED-01186,canal,formato_texto,Para llevar,PARA LLEVAR
+PED-01178,canal,formato_texto,Para llevar,Para Llevar
+PED-01489,canal,formato_texto,Salón,Salón 
+PED-00035,canal,formato_texto,Para llevar,Para Llevar
+PED-01594,canal,formato_texto,Salón,salón
+PED-00591,canal,formato_texto,Salón,Salón 
+PED-00779,canal,formato_texto,Salón,Salón 
+PED-01923,canal,formato_texto,Salón,SALÓN
+PED-00556,canal,formato_texto,Salón,SALÓN
+PED-00132,canal,formato_texto,Salón,SALÓN
+PED-00857,canal,formato_texto,Salón,Salón 
+PED-01830,canal,formato_texto,Domicilio propio,domicilio propio
+PED-00199,canal,formato_texto,Salón,salón
+PED-01488,canal,formato_texto,Salón,salón
+PED-01267,canal,formato_texto,Rappi,rappi app
+PED-00137,canal,formato_texto,Salón,salón
+PED-00379,canal,formato_texto,Para llevar,para llevar
+PED-00525,canal,formato_texto,Para llevar,Para Llevar
+PED-01974,canal,formato_texto,Rappi,Rappi 
+PED-01989,canal,formato_texto,Salón,Salón 
+PED-01263,canal,formato_texto,Rappi,RAPPI
+PED-00790,canal,formato_texto,Para llevar,para llevar
+PED-01466,canal,formato_texto,Salón,Salon
+PED-01103,canal,formato_texto,Domicilio propio,Domicilio
+PED-00943,canal,formato_texto,Salón,salón
+PED-00685,canal,formato_texto,Rappi,rappi app
+PED-00139,canal,formato_texto,Salón,Salon
+PED-01223,canal,formato_texto,Salón,Salón 
+PED-00491,canal,formato_texto,Rappi,rappi app
+PED-01324,canal,formato_texto,Rappi,rappi
+PED-01048,canal,formato_texto,Domicilio propio,domicilio propio
+PED-01908,canal,formato_texto,Salón,Salon
+PED-00417,canal,formato_texto,Domicilio propio,DOMICILIO PROPIO
+PED-01960,canal,formato_texto,Salón,salón
+PED-01423,canal,formato_texto,Domicilio propio,Domicilio
+PED-01080,canal,formato_texto,Rappi,rappi
+PED-00724,canal,formato_texto,Salón,SALÓN
+PED-01069,canal,formato_texto,Salón,SALÓN
+PED-00886,canal,formato_texto,Domicilio propio,domicilio propio
+PED-00735,canal,formato_texto,Domicilio propio,domicilio propio
+PED-01077,canal,formato_texto,Salón,Salón 
+PED-01102,canal,formato_texto,Salón,Salón 
+PED-01850,canal,formato_texto,Salón,SALÓN
+PED-00141,canal,formato_texto,Salón,salón
+PED-00198,canal,formato_texto,Salón,Salon
+PED-01711,canal,formato_texto,Para llevar,Para llevar 
+PED-01464,canal,formato_texto,Salón,salón
+PED-01158,canal,formato_texto,Salón,salón
+PED-00395,canal,formato_texto,Salón,SALÓN
+PED-00384,canal,formato_texto,Rappi,Rappi 
+PED-01062,canal,formato_texto,Domicilio propio,Domicilio propio 
+PED-00733,canal,formato_texto,Salón,Salon
+PED-00522,canal,formato_texto,Salón,salón
+PED-01450,canal,formato_texto,Salón,salón
+PED-01347,canal,formato_texto,Salón,SALÓN
+PED-00407,canal,formato_texto,Rappi,rappi
+PED-00060,canal,formato_texto,Para llevar,PARA LLEVAR
+PED-00026,canal,formato_texto,Salón,salón
+PED-01498,canal,formato_texto,Domicilio propio,Domicilio propio 
+PED-01868,canal,formato_texto,Domicilio propio,Domicilio propio 
+PED-01194,canal,formato_texto,Salón,salón
+PED-01844,canal,formato_texto,Para llevar,Para llevar 
+PED-01627,canal,formato_texto,Domicilio propio,Domicilio propio 
+PED-00738,canal,formato_texto,Salón,salón
+PED-00478,canal,formato_texto,Salón,salón
+PED-00745,canal,formato_texto,Para llevar,Para llevar 
+PED-01163,canal,formato_texto,Salón,salón
+PED-01001,canal,formato_texto,Domicilio propio,DOMICILIO PROPIO
+PED-01512,canal,formato_texto,Salón,Salon
+PED-01410,canal,formato_texto,Rappi,RAPPI
+PED-01551,canal,formato_texto,Salón,SALÓN
+PED-01378,canal,formato_texto,Domicilio propio,domicilio propio
+PED-01869,canal,formato_texto,Salón,SALÓN
+PED-00074,canal,formato_texto,Rappi,RAPPI
+PED-01555,canal,formato_texto,Salón,salón
+PED-01797,canal,formato_texto,Rappi,Rappi 
+PED-00429,canal,formato_texto,Salón,SALÓN
+PED-00553,canal,formato_texto,Domicilio propio,domicilio propio
+PED-00633,canal,formato_texto,Salón,SALÓN
+PED-00681,canal,formato_texto,Salón,salón
+PED-01088,canal,formato_texto,Salón,Salón 
+PED-00327,canal,formato_texto,Rappi,RAPPI
+PED-01919,canal,formato_texto,Salón,Salon
+PED-01357,canal,formato_texto,Rappi,RAPPI
+PED-00542,canal,formato_texto,Salón,Salón 
+PED-01019,canal,formato_texto,Salón,salón
+PED-00183,canal,formato_texto,Para llevar,Para llevar 
+PED-01292,canal,formato_texto,Para llevar,PARA LLEVAR
+PED-00995,canal,formato_texto,Salón,SALÓN
+PED-01389,canal,formato_texto,Salón,Salón 
+PED-00338,canal,formato_texto,Para llevar,Para llevar 
+PED-00692,canal,formato_texto,Rappi,rappi
+PED-01397,canal,formato_texto,Salón,SALÓN
+PED-01792,canal,formato_texto,Salón,Salón 
+PED-01730,canal,formato_texto,Salón,SALÓN
+PED-00223,canal,formato_texto,Rappi,Rappi 
+PED-01780,canal,formato_texto,Salón,SALÓN
+PED-01738,canal,formato_texto,Domicilio propio,Domicilio propio 
+PED-01070,canal,formato_texto,Rappi,rappi app
+PED-00527,canal,formato_texto,Domicilio propio,domicilio propio
+PED-00520,canal,formato_texto,Rappi,RAPPI
+PED-01695,canal,formato_texto,Rappi,RAPPI
+PED-00093,canal,formato_texto,Para llevar,PARA LLEVAR
+PED-01467,canal,formato_texto,Para llevar,Para llevar 
+PED-01962,canal,formato_texto,Salón,salón
+PED-01081,canal,formato_texto,Rappi,rappi
+PED-00730,canal,formato_texto,Domicilio propio,DOMICILIO PROPIO
+PED-00393,canal,formato_texto,Salón,SALÓN
+PED-00433,canal,formato_texto,Rappi,RAPPI
+PED-00900,canal,formato_texto,Para llevar,Para llevar 
+PED-00341,canal,formato_texto,Domicilio propio,domicilio propio
+PED-00006,canal,formato_texto,Domicilio propio,Domicilio
+PED-01867,canal,formato_texto,Salón,SALÓN
+PED-01741,canal,formato_texto,Para llevar,PARA LLEVAR
+PED-01879,canal,formato_texto,Para llevar,Para Llevar
+PED-01184,canal,formato_texto,Salón,Salón 
+PED-00320,canal,formato_texto,Salón,SALÓN
+PED-01849,canal,formato_texto,Salón,Salón 
+PED-01945,canal,formato_texto,Salón,Salón 
+PED-01310,canal,formato_texto,Salón,Salón 
+PED-01067,canal,formato_texto,Salón,SALÓN
+PED-00863,canal,formato_texto,Para llevar,Para llevar 
+PED-00524,canal,formato_texto,Salón,salón
+PED-00434,canal,formato_texto,Para llevar,Para Llevar
+PED-01193,canal,formato_texto,Rappi,RAPPI
+PED-01592,canal,formato_texto,Para llevar,para llevar
+PED-01933,canal,formato_texto,Rappi,rappi app
+PED-00922,canal,formato_texto,Salón,salón
+PED-01994,canal,formato_texto,Domicilio propio,domicilio propio
+PED-01381,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-01795,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-01096,metodo_pago,ortografia,Nequi,nequi
+PED-01976,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-01595,metodo_pago,ortografia,Nequi,NEQUI 
+PED-00653,metodo_pago,ortografia,Nequi,NEQUI
+PED-01013,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00267,metodo_pago,ortografia,Efectivo,efectvo
+PED-00685,metodo_pago,ortografia,Efectivo,efectvo
+PED-01699,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00185,metodo_pago,ortografia,Nequi,NEQUI 
+PED-01058,metodo_pago,ortografia,Tarjeta crédito,Credito
+PED-00833,metodo_pago,ortografia,Nequi,nequi
+PED-01413,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01735,metodo_pago,ortografia,Efectivo,efectivo
+PED-00206,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-00409,metodo_pago,ortografia,Efectivo,efectvo
+PED-01368,metodo_pago,ortografia,Daviplata,daviplata
+PED-00716,metodo_pago,ortografia,Transferencia,TRANSFERENCIA
+PED-01590,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-01830,metodo_pago,ortografia,Efectivo,efectvo
+PED-01913,metodo_pago,ortografia,Daviplata,DAVIPLATA
+PED-00017,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01244,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00778,metodo_pago,ortografia,Tarjeta crédito,Credito
+PED-01727,metodo_pago,ortografia,Tarjeta crédito,Credito
+PED-00124,metodo_pago,ortografia,Efectivo,efectivo
+PED-00254,metodo_pago,ortografia,Daviplata,daviplata
+PED-00726,metodo_pago,ortografia,Daviplata,daviplata
+PED-01301,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-00207,metodo_pago,ortografia,Daviplata,Davi plata
+PED-01702,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-01357,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00440,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-00906,metodo_pago,ortografia,Daviplata,Davi plata
+PED-00305,metodo_pago,ortografia,Tarjeta crédito,Credito
+PED-01815,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01978,metodo_pago,ortografia,Efectivo,efectvo
+PED-01247,metodo_pago,ortografia,Efectivo,efectvo
+PED-00153,metodo_pago,ortografia,Nequi,NEQUI 
+PED-01427,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00609,metodo_pago,ortografia,Nequi,nequi
+PED-00060,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-01084,metodo_pago,ortografia,Efectivo,efectivo
+PED-00579,metodo_pago,ortografia,Daviplata,DAVIPLATA
+PED-01631,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-00307,metodo_pago,ortografia,Efectivo,efectivo
+PED-00827,metodo_pago,ortografia,Tarjeta crédito,Credito
+PED-00509,metodo_pago,ortografia,Efectivo,efectivo
+PED-00593,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-00700,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-00104,metodo_pago,ortografia,Transferencia,TRANSFERENCIA
+PED-01760,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00554,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01189,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01105,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-01360,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-01263,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-00682,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-01694,metodo_pago,ortografia,Tarjeta crédito,Credito
+PED-01663,metodo_pago,ortografia,Nequi,nequi
+PED-01331,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00948,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-01296,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-01055,metodo_pago,ortografia,Nequi,NEQUI 
+PED-01970,metodo_pago,ortografia,Tarjeta crédito,TARJETA CRÉDITO
+PED-01366,metodo_pago,ortografia,Nequi,NEQUI
+PED-00369,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01948,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-01573,metodo_pago,ortografia,Efectivo,efectvo
+PED-01611,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00270,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-00498,metodo_pago,ortografia,Tarjeta crédito,TARJETA CRÉDITO
+PED-01518,metodo_pago,ortografia,Efectivo,efectvo
+PED-01695,metodo_pago,ortografia,Efectivo,efectvo
+PED-01211,metodo_pago,ortografia,Efectivo,efectvo
+PED-01037,metodo_pago,ortografia,Nequi,NEQUI
+PED-00907,metodo_pago,ortografia,Nequi,NEQUI
+PED-00483,metodo_pago,ortografia,Efectivo,efectivo
+PED-00779,metodo_pago,ortografia,Efectivo,efectivo
+PED-00396,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-00320,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-00794,metodo_pago,ortografia,Efectivo,efectivo
+PED-01693,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01910,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-00234,metodo_pago,ortografia,Efectivo,efectivo
+PED-00156,metodo_pago,ortografia,Daviplata,Davi plata
+PED-00294,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-00732,metodo_pago,ortografia,Efectivo,efectvo
+PED-01160,metodo_pago,ortografia,Daviplata,DAVIPLATA
+PED-01009,metodo_pago,ortografia,Daviplata,Davi plata
+PED-00365,metodo_pago,ortografia,Efectivo,efectivo
+PED-00662,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-01600,metodo_pago,ortografia,Efectivo,efectivo
+PED-01648,metodo_pago,ortografia,Nequi,NEQUI 
+PED-01817,metodo_pago,ortografia,Efectivo,efectvo
+PED-01146,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-00095,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00751,metodo_pago,ortografia,Efectivo,efectvo
+PED-01479,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01949,metodo_pago,ortografia,Tarjeta crédito,Credito
+PED-00242,metodo_pago,ortografia,Nequi,nequi
+PED-01444,metodo_pago,ortografia,Nequi,NEQUI
+PED-00408,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01725,metodo_pago,ortografia,Efectivo,efectivo
+PED-00870,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-01532,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00617,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-00473,metodo_pago,ortografia,Tarjeta crédito,Credito
+PED-00567,metodo_pago,ortografia,Daviplata,Davi plata
+PED-00823,metodo_pago,ortografia,Efectivo,efectivo
+PED-00485,metodo_pago,ortografia,Tarjeta crédito,TARJETA CRÉDITO
+PED-01293,metodo_pago,ortografia,Efectivo,efectvo
+PED-01979,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-01405,metodo_pago,ortografia,Daviplata,DAVIPLATA
+PED-01899,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-01912,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01019,metodo_pago,ortografia,Nequi,NEQUI 
+PED-01188,metodo_pago,ortografia,Efectivo,efectivo
+PED-00363,metodo_pago,ortografia,Daviplata,DAVIPLATA
+PED-01581,metodo_pago,ortografia,Tarjeta crédito,TARJETA CRÉDITO
+PED-01683,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-00278,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-01062,metodo_pago,ortografia,Efectivo,efectvo
+PED-01208,metodo_pago,ortografia,Tarjeta crédito,TARJETA CRÉDITO
+PED-01246,metodo_pago,ortografia,Daviplata,Davi plata
+PED-01729,metodo_pago,ortografia,Nequi,nequi
+PED-00427,metodo_pago,ortografia,Daviplata,Davi plata
+PED-00923,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-01886,metodo_pago,ortografia,Nequi,nequi
+PED-00494,metodo_pago,ortografia,Efectivo,efectvo
+PED-01536,metodo_pago,ortografia,Tarjeta débito,T. Debito
+PED-01685,metodo_pago,ortografia,Daviplata,daviplata
+PED-00776,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-01745,metodo_pago,ortografia,Transferencia,transferencia
+PED-01940,metodo_pago,ortografia,Daviplata,DAVIPLATA
+PED-00549,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-00793,metodo_pago,ortografia,Efectivo,efectivo
+PED-00058,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-01819,metodo_pago,ortografia,Tarjeta crédito,TARJETA CRÉDITO
+PED-00831,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00120,metodo_pago,ortografia,Efectivo,efectivo
+PED-00462,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01378,metodo_pago,ortografia,Efectivo,efectivo
+PED-01108,metodo_pago,ortografia,nan,nan
+PED-01967,metodo_pago,ortografia,Nequi,NEQUI 
+PED-01942,metodo_pago,ortografia,Efectivo,efectivo
+PED-00611,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-00972,metodo_pago,ortografia,Tarjeta crédito,TARJETA CRÉDITO
+PED-00892,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00904,metodo_pago,ortografia,Daviplata,Davi plata
+PED-01262,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-00454,metodo_pago,ortografia,Nequi,NEQUI
+PED-00362,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-01355,metodo_pago,ortografia,Tarjeta débito,tarjeta débito
+PED-01946,metodo_pago,ortografia,Tarjeta débito,TARJETA DÉBITO
+PED-01151,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-01125,metodo_pago,ortografia,Tarjeta crédito,tarjeta crédito
+PED-01844,metodo_pago,ortografia,Nequi,NEQUI
+PED-00247,metodo_pago,ortografia,Efectivo,EFECTIVO
+PED-00290,plato,ortografia,Ajiaco santafereño, Ajiaco santafereño
+PED-00570,plato,ortografia,Empanadas x3,EMPANADAS X3
+PED-01539,plato,ortografia,Sancocho de gallina,sancocho de gallina
+PED-00086,plato,ortografia,Hamburguesa artesanal,Hamburgesa artesanal
+PED-01010,plato,ortografia,Patacones con hogao,patacones con hogao
+PED-00809,plato,ortografia,Jugo natural, Jugo natural
+PED-00781,plato,ortografia,Cerveza nacional,cerveza nacional
+PED-01210,plato,ortografia,Salchipapa,salchipapa
+PED-00295,plato,ortografia,Arepa de choclo, Arepa de choclo
+PED-00739,plato,ortografia,Limonada de coco, Limonada de coco
+PED-01032,plato,ortografia,Achiras con café,achiras con café
+PED-01005,plato,ortografia,Brownie con helado,BROWNIE CON HELADO
+PED-00309,plato,ortografia,Sancocho de gallina,SANCOCHO DE GALLINA
+PED-00846,plato,ortografia,Jugo natural, Jugo natural
+PED-00762,plato,ortografia,Perro caliente especial,perro caliente especial
+PED-01333,plato,ortografia,Jugo natural,jugo natural
+PED-01945,plato,ortografia,Arepa de choclo, Arepa de choclo
+PED-01177,plato,ortografia,Ajiaco santafereño,Ajiaco santafereno
+PED-01620,plato,ortografia,Gaseosa,gaseosa
+PED-01973,plato,ortografia,Bandeja paisa,Bandeja Paiza
+PED-00893,plato,ortografia,Limonada de coco,LIMONADA DE COCO
+PED-00188,plato,ortografia,Ajiaco santafereño,ajiaco santafereño
+PED-00329,plato,ortografia,Patacones con hogao,patacones con hogao
+PED-01356,plato,ortografia,Brownie con helado, Brownie con helado
+PED-00834,plato,ortografia,Empanadas x3,EMPANADAS X3
+PED-00973,plato,ortografia,Arepa de choclo,arepa de choclo
+PED-00004,plato,ortografia,Bandeja paisa,Bandeja Paiza
+PED-01386,plato,ortografia,Empanadas x3,EMPANADAS X3
+PED-00073,plato,ortografia,Achiras con café,ACHIRAS CON CAFÉ
+PED-00593,plato,ortografia,Jugo natural, Jugo natural
+PED-01767,plato,ortografia,Perro caliente especial,perro caliente especial
+PED-01541,plato,ortografia,Hamburguesa artesanal,Hamburgesa artesanal
+PED-00084,plato,ortografia,Mojarra frita,mojarra frita
+PED-00928,plato,ortografia,Achiras con café,ACHIRAS CON CAFÉ
+PED-01436,plato,ortografia,Patacones con hogao, Patacones con hogao
+PED-01698,plato,ortografia,Jugo natural, Jugo natural
+PED-00760,plato,ortografia,Bandeja paisa, Bandeja paisa
+PED-01163,plato,ortografia,Sancocho de gallina,sancocho de gallina
+PED-01778,plato,ortografia,Limonada de coco,LIMONADA DE COCO
+PED-00966,plato,ortografia,Cerveza nacional, Cerveza nacional
+PED-00345,plato,ortografia,Ajiaco santafereño,Ajiaco santafereno
+PED-01315,plato,ortografia,Lechona tolimense,lechona tolimense
+PED-01363,plato,ortografia,Patacones con hogao,PATACONES CON HOGAO
+PED-00729,plato,ortografia,Asado huilense,ASADO HUILENSE
+PED-00457,plato,ortografia,Sancocho de gallina,sancocho de gallina
+PED-00019,plato,ortografia,Achiras con café,achiras con café
+PED-00423,plato,ortografia,Asado huilense,asado huilense
+PED-01239,plato,ortografia,Patacones con hogao, Patacones con hogao
+PED-01737,plato,ortografia,Gaseosa,GASEOSA
+PED-00248,plato,ortografia,Lechona tolimense,LECHONA TOLIMENSE
+PED-00076,plato,ortografia,Arepa de choclo, Arepa de choclo
+PED-01607,plato,ortografia,Gaseosa,GASEOSA
+PED-00779,plato,ortografia,Perro caliente especial,perro caliente especial
+PED-01065,plato,ortografia,Hamburguesa artesanal,hamburguesa artesanal
+PED-01255,plato,ortografia,Ajiaco santafereño,Ajiaco santafereno
+PED-01215,plato,ortografia,Cerveza nacional,CERVEZA NACIONAL
+PED-01090,plato,ortografia,Postre de natas,postre de natas
+PED-01072,plato,ortografia,Ajiaco santafereño,Ajiaco santafereno
+PED-01252,plato,ortografia,Ajiaco santafereño,ajiaco santafereño
+PED-01700,plato,ortografia,Bandeja paisa,Bandeja Paiza
+PED-00276,plato,ortografia,Jugo natural,JUGO NATURAL
+PED-00200,plato,ortografia,Achiras con café,ACHIRAS CON CAFÉ
+PED-00217,plato,ortografia,Sancocho de gallina, Sancocho de gallina
+PED-01670,plato,ortografia,Cerveza nacional,CERVEZA NACIONAL
+PED-00676,plato,ortografia,Cerveza nacional, Cerveza nacional
+PED-00364,plato,ortografia,Gaseosa,gaseosa
+PED-00135,plato,ortografia,Gaseosa,gaseosa
+PED-01482,plato,ortografia,Mojarra frita, Mojarra frita
+PED-00172,plato,ortografia,Patacones con hogao,PATACONES CON HOGAO
+PED-01003,plato,ortografia,Perro caliente especial, Perro caliente especial
+PED-01033,plato,ortografia,Postre de natas,postre de natas
+PED-00411,plato,ortografia,Lechona tolimense,lechona tolimense
+PED-00515,plato,ortografia,Arepa de choclo, Arepa de choclo
+PED-01961,plato,ortografia,Sancocho de gallina, Sancocho de gallina
+PED-01726,plato,ortografia,Jugo natural, Jugo natural
+PED-01606,plato,ortografia,Ajiaco santafereño,ajiaco santafereño
+PED-01024,plato,ortografia,Gaseosa,GASEOSA
+PED-00165,plato,ortografia,Patacones con hogao,patacones con hogao
+PED-01346,plato,ortografia,Cerveza nacional, Cerveza nacional
+PED-01575,plato,ortografia,Salchipapa,Salchi papa
+PED-00075,plato,ortografia,Ajiaco santafereño,Ajiaco santafereno
+PED-01102,plato,ortografia,Postre de natas,POSTRE DE NATAS
+PED-00690,plato,ortografia,Mojarra frita,mojarra frita
+PED-00732,plato,ortografia,Achiras con café, Achiras con café
+PED-00199,plato,ortografia,Postre de natas,postre de natas
+PED-01228,plato,ortografia,Hamburguesa artesanal, Hamburguesa artesanal
+PED-00782,plato,ortografia,Patacones con hogao,PATACONES CON HOGAO
+PED-01328,plato,ortografia,Perro caliente especial,PERRO CALIENTE ESPECIAL
+PED-00264,plato,ortografia,Asado huilense, Asado huilense
+PED-00283,plato,ortografia,Achiras con café,achiras con café
+PED-00927,plato,ortografia,Sancocho de gallina,SANCOCHO DE GALLINA
+PED-00751,plato,ortografia,Empanadas x3, Empanadas x3
+PED-00662,plato,ortografia,Jugo natural,JUGO NATURAL
+PED-01044,plato,ortografia,Lechona tolimense, Lechona tolimense
+PED-01330,plato,ortografia,Perro caliente especial,perro caliente especial
+PED-00057,plato,ortografia,Brownie con helado, Brownie con helado
+PED-01659,plato,ortografia,Gaseosa,gaseosa
+PED-01369,plato,ortografia,Brownie con helado,brownie con helado
+PED-01828,plato,ortografia,Salchipapa,Salchi papa
+PED-01301,plato,ortografia,Asado huilense,asado huilense
+PED-00987,tipo_cliente,formato_texto,Empresarial,EMPRESARIAL
+PED-00669,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-01099,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01006,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01943,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-01506,tipo_cliente,formato_texto,Nuevo,nuevo
+PED-01512,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01529,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00915,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-01765,tipo_cliente,formato_texto,Frecuente,frecuent
+PED-01905,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01269,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-00590,tipo_cliente,formato_texto,Nuevo,NUEVO
+PED-01460,tipo_cliente,formato_texto,Empresarial,Empresa
+PED-00616,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01142,tipo_cliente,formato_texto,Frecuente,frecuent
+PED-00396,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00680,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00336,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-00037,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01678,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-01830,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01996,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01226,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00992,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-00321,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-01355,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-01544,tipo_cliente,formato_texto,Empresarial,Empresa
+PED-00068,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01045,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01876,tipo_cliente,formato_texto,Empresarial,EMPRESARIAL
+PED-01334,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01998,tipo_cliente,formato_texto,Empresarial,empresarial
+PED-01431,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-01100,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00388,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01486,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-01590,tipo_cliente,formato_texto,Frecuente,frecuent
+PED-01691,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01070,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-00848,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-00327,tipo_cliente,formato_texto,Empresarial,Empresa
+PED-00418,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01360,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01670,tipo_cliente,formato_texto,nan,NAN
+PED-01373,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-00782,tipo_cliente,formato_texto,Frecuente,frecuent
+PED-00495,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00809,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-00180,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01141,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00821,tipo_cliente,formato_texto,nan,nan
+PED-01356,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00662,tipo_cliente,formato_texto,nan,nan
+PED-00666,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00010,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01953,tipo_cliente,formato_texto,Nuevo,nuevo
+PED-01093,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-00233,tipo_cliente,formato_texto,Nuevo,nuevo
+PED-01432,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00972,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-00730,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-01572,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01461,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-00535,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01859,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-00051,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01564,tipo_cliente,formato_texto,Frecuente,frecuent
+PED-01014,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01923,tipo_cliente,formato_texto,Frecuente,frecuent
+PED-00175,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-01617,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01729,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01249,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00684,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00147,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-01117,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01191,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01527,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01068,tipo_cliente,formato_texto,Empresarial,empresarial
+PED-01287,tipo_cliente,formato_texto,nan,nan
+PED-01495,tipo_cliente,formato_texto,Nuevo,NUEVO
+PED-01586,tipo_cliente,formato_texto,Frecuente,frecuente
+PED-01196,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00932,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01185,tipo_cliente,formato_texto,Nuevo,Nuevo
+PED-00861,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00116,tipo_cliente,formato_texto,Frecuente,FRECUENTE
+PED-01826,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00679,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-00762,tipo_cliente,formato_texto,Nuevo,nuevo
+PED-01316,tipo_cliente,formato_texto,Nuevo,Nuevo
+PED-01169,tipo_cliente,formato_texto,Empresarial,Empresa
+PED-01190,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01225,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-01865,tipo_cliente,formato_texto,Nuevo,nuevo
+PED-00113,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00742,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00800,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-00377,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01151,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01588,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00331,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-00917,tipo_cliente,formato_texto,Empresarial,EMPRESARIAL
+PED-00877,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-00046,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-01308,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-01411,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-01165,tipo_cliente,formato_texto,Nuevo,NUEVO
+PED-01676,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-00572,tipo_cliente,formato_texto,Frecuente,frecuent
+PED-01058,tipo_cliente,formato_texto,Nuevo,nuevo
+PED-01892,tipo_cliente,formato_texto,Ocasional,ocacional
+PED-00352,tipo_cliente,formato_texto,Empresarial,Empresa
+PED-01561,tipo_cliente,formato_texto,Ocasional,OCASIONAL
+PED-01960,tipo_cliente,formato_texto,Ocasional,ocasional
+PED-00184,tipo_cliente,formato_texto,Empresarial,EMPRESARIAL
+PED-00770,tipo_cliente,formato_texto,Frecuente,frecuent
+PED-01304,tipo_cliente,formato_texto,Nuevo,nuevo
+PED-00232,tipo_cliente,formato_texto,Nuevo,Nuevo
+PED-01523,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01121,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01631,estado_pedido,formato_texto,Reclamado,RECLAMADO
+PED-00028,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00977,estado_pedido,formato_texto,Entregado,entregado
+PED-01232,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00251,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01491,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01778,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00635,estado_pedido,formato_texto,Entregado,entregad0
+PED-00063,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01750,estado_pedido,formato_texto,Entregado,entregado
+PED-00002,estado_pedido,formato_texto,Entregado,entregad0
+PED-00536,estado_pedido,formato_texto,Entregado,entregado
+PED-01252,estado_pedido,formato_texto,Entregado,entregad0
+PED-00444,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01539,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01420,estado_pedido,formato_texto,Entregado,entregado
+PED-00617,estado_pedido,formato_texto,Entregado,entregado
+PED-00245,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01038,estado_pedido,formato_texto,Entregado,entregado
+PED-01331,estado_pedido,formato_texto,Entregado,entregad0
+PED-00949,estado_pedido,formato_texto,Entregado,entregad0
+PED-01700,estado_pedido,formato_texto,Entregado,entregado
+PED-01849,estado_pedido,formato_texto,En preparación,en preparación
+PED-00148,estado_pedido,formato_texto,Entregado,entregad0
+PED-01041,estado_pedido,formato_texto,Entregado,entregad0
+PED-01026,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00862,estado_pedido,formato_texto,Entregado,entregad0
+PED-01244,estado_pedido,formato_texto,Entregado,entregad0
+PED-01229,estado_pedido,formato_texto,Entregado,entregad0
+PED-00873,estado_pedido,formato_texto,En preparación,EN PREPARACIÓN
+PED-00631,estado_pedido,formato_texto,Entregado,entregad0
+PED-00605,estado_pedido,formato_texto,Cancelado,cancelado
+PED-01281,estado_pedido,formato_texto,Entregado,entregad0
+PED-00498,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01571,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00300,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00924,estado_pedido,formato_texto,Entregado,entregado
+PED-00538,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01800,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01189,estado_pedido,formato_texto,Entregado,entregado
+PED-01806,estado_pedido,formato_texto,Entregado,entregado
+PED-00829,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00604,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00291,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01039,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00062,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00720,estado_pedido,formato_texto,Entregado,entregad0
+PED-01225,estado_pedido,formato_texto,Entregado,entregad0
+PED-01517,estado_pedido,formato_texto,Entregado,entregad0
+PED-00458,estado_pedido,formato_texto,Entregado,entregad0
+PED-01595,estado_pedido,formato_texto,Entregado,entregad0
+PED-01529,estado_pedido,formato_texto,Reclamado,RECLAMADO
+PED-00378,estado_pedido,formato_texto,Entregado,entregado
+PED-01066,estado_pedido,formato_texto,Entregado,entregado
+PED-00526,estado_pedido,formato_texto,Entregado,entregado
+PED-01273,estado_pedido,formato_texto,Entregado,entregado
+PED-01919,estado_pedido,formato_texto,Entregado,entregad0
+PED-00192,estado_pedido,formato_texto,Entregado,entregado
+PED-00437,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00726,estado_pedido,formato_texto,Entregado,entregad0
+PED-00771,estado_pedido,formato_texto,Entregado,entregad0
+PED-00881,estado_pedido,formato_texto,En preparación,preparando
+PED-01337,estado_pedido,formato_texto,Entregado,entregado
+PED-01541,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00302,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01797,estado_pedido,formato_texto,Entregado,entregado
+PED-00554,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01536,estado_pedido,formato_texto,Entregado,entregad0
+PED-01991,estado_pedido,formato_texto,Entregado,entregado
+PED-00289,estado_pedido,formato_texto,Entregado,entregad0
+PED-01948,estado_pedido,formato_texto,Cancelado,CANCELADO
+PED-01298,estado_pedido,formato_texto,Entregado,entregad0
+PED-01297,estado_pedido,formato_texto,En preparación,en preparación
+PED-00191,estado_pedido,formato_texto,Entregado,entregado
+PED-01136,estado_pedido,formato_texto,Entregado,entregado
+PED-01462,estado_pedido,formato_texto,Entregado,entregad0
+PED-01023,estado_pedido,formato_texto,Cancelado,CANCEL
+PED-01716,estado_pedido,formato_texto,Entregado,entregado
+PED-01069,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01336,estado_pedido,formato_texto,Cancelado,CANCELADO
+PED-00404,estado_pedido,formato_texto,Entregado,entregad0
+PED-01624,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00066,estado_pedido,formato_texto,Entregado,entregad0
+PED-01305,estado_pedido,formato_texto,Cancelado,CANCELADO
+PED-01900,estado_pedido,formato_texto,Entregado,entregad0
+PED-00637,estado_pedido,formato_texto,Entregado,entregado
+PED-00888,estado_pedido,formato_texto,Cancelado,CANCEL
+PED-00818,estado_pedido,formato_texto,Entregado,entregad0
+PED-00898,estado_pedido,formato_texto,Entregado,entregad0
+PED-00770,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01813,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00386,estado_pedido,formato_texto,Entregado,entregado
+PED-00872,estado_pedido,formato_texto,Entregado,entregado
+PED-01914,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01373,estado_pedido,formato_texto,Entregado,entregad0
+PED-01886,estado_pedido,formato_texto,En preparación,en preparación
+PED-00003,estado_pedido,formato_texto,Entregado,entregado
+PED-01128,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00337,estado_pedido,formato_texto,Entregado,entregad0
+PED-00064,estado_pedido,formato_texto,Entregado,entregado
+PED-00355,estado_pedido,formato_texto,Entregado,entregado
+PED-01164,estado_pedido,formato_texto,Entregado,entregad0
+PED-00410,estado_pedido,formato_texto,Entregado,entregad0
+PED-01506,estado_pedido,formato_texto,Entregado,entregad0
+PED-01917,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01715,estado_pedido,formato_texto,Entregado,entregado
+PED-00320,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01977,estado_pedido,formato_texto,Entregado,entregado
+PED-01016,estado_pedido,formato_texto,Entregado,entregad0
+PED-00067,estado_pedido,formato_texto,Entregado,entregad0
+PED-00789,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00469,estado_pedido,formato_texto,Entregado,entregado
+PED-01346,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01842,estado_pedido,formato_texto,Entregado,entregado
+PED-01021,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00717,estado_pedido,formato_texto,Entregado,entregado
+PED-00073,estado_pedido,formato_texto,Entregado,entregad0
+PED-01592,estado_pedido,formato_texto,Entregado,entregad0
+PED-00876,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-00837,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01865,estado_pedido,formato_texto,Entregado,ENTREGADO
+PED-01292,estado_pedido,formato_texto,Entregado,entregad0
+PED-01714,estado_pedido,formato_texto,Cancelado,CANCEL
+PED-01340,estado_pedido,formato_texto,Entregado,entregado
+PED-01542,estado_pedido,formato_texto,Entregado,entregad0
+PED-01690,estado_pedido,formato_texto,Cancelado,cancelado
+PED-01633,estado_pedido,formato_texto,Cancelado,CANCELADO
+PED-00960,estado_pedido,formato_texto,Entregado,entregado
+PED-01909,estado_pedido,formato_texto,Entregado,entregado
+PED-01072,estado_pedido,formato_texto,Entregado,entregado
+PED-01019,estado_pedido,formato_texto,Entregado,entregad0
+PED-00860,estado_pedido,formato_texto,Entregado,entregad0
+PED-01737,estado_pedido,formato_texto,Entregado,entregado
+PED-01701,estado_pedido,formato_texto,Entregado,entregad0
+PED-00713,estado_pedido,formato_texto,Entregado,entregado
+PED-00158,estado_pedido,formato_texto,Entregado,entregad0
+PED-00905,estado_pedido,formato_texto,Entregado,entregad0
+PED-01730,estado_pedido,formato_texto,Entregado,entregado
+PED-01603,sede,formato_texto,Sede Centro Neiva,Centro Neiva
+PED-00909,sede,formato_texto,Sede Chapinero,Sede Chapinero  
+PED-00977,sede,formato_texto,Sede Chapinero,Sede Chapinero  
+PED-00347,sede,formato_texto,Sede Chapinero,SEDE CHAPINERO
+PED-01362,sede,formato_texto,Sede Chapinero,SEDE CHAPINERO
+PED-00672,sede,formato_texto,Sede Pitalito,Sede Pitalito  
+PED-00552,sede,formato_texto,Sede Usaquén,Usaquén
+PED-00290,sede,formato_texto,Sede Granada,Sede Granada  
+PED-00823,sede,formato_texto,Sede Cabecera,Cabecera
+PED-01333,sede,formato_texto,Sede Chapinero,SEDE CHAPINERO
+PED-01100,sede,formato_texto,Sede Chapinero,Chapinero
+PED-00113,sede,formato_texto,Sede Chapinero,Sede Chapinero  
+PED-01711,sede,formato_texto,Sede Chapinero,SEDE CHAPINERO
+PED-01060,sede,formato_texto,Sede Cabecera,Cabecera
+PED-00644,sede,formato_texto,Sede Chapinero,Chapinero
+PED-01637,sede,formato_texto,Sede Centro Neiva,Sede Centro Neiva  
+PED-00774,sede,formato_texto,Sede Ibagué,SEDE IBAGUÉ
+PED-00573,sede,formato_texto,Sede Norte Neiva,Norte Neiva
+PED-00174,sede,formato_texto,Sede El Poblado,El Poblado
+PED-01147,sede,formato_texto,Sede Cabecera,Cabecera
+PED-00484,sede,formato_texto,Sede Chapinero,Chapinero
+PED-01085,sede,formato_texto,Sede Granada,SEDE GRANADA
+PED-01499,sede,formato_texto,Sede El Poblado,SEDE EL POBLADO
+PED-01888,sede,formato_texto,Sede El Poblado,SEDE EL POBLADO
+PED-01997,sede,formato_texto,Sede Granada,Granada
+PED-01563,sede,formato_texto,Sede Usaquén,Sede Usaquén  
+PED-00096,sede,formato_texto,Sede Chapinero,Sede Chapinero  
+PED-01992,sede,formato_texto,Sede Chapinero,Sede Chapinero  
+PED-01652,sede,formato_texto,Sede Cabecera,SEDE CABECERA
+PED-00835,sede,formato_texto,Sede Usaquén,SEDE USAQUÉN
+PED-00601,sede,formato_texto,Sede Norte Neiva,Sede Norte Neiva  
+PED-00655,sede,formato_texto,Sede Centro Neiva,Centro Neiva
+PED-00748,sede,formato_texto,Sede Usaquén,Usaquén
+PED-00563,sede,formato_texto,Sede Usaquén,Usaquén
+PED-00925,sede,formato_texto,Sede Chapinero,Chapinero
+PED-00357,sede,formato_texto,Sede Pitalito,Pitalito
+PED-01256,sede,formato_texto,Sede Chapinero,Chapinero
+PED-00877,sede,formato_texto,Sede Chapinero,Chapinero
+PED-00469,sede,formato_texto,Sede El Poblado,El Poblado
+PED-00311,sede,formato_texto,Sede Granada,Granada
+PED-01076,sede,formato_texto,Sede Norte Neiva,Sede Norte Neiva  
+PED-01926,sede,formato_texto,Sede El Poblado,Sede El Poblado  
+PED-00743,sede,formato_texto,Sede Centro Neiva,SEDE CENTRO NEIVA
+PED-01770,sede,formato_texto,Sede Chapinero,Sede Chapinero  
+PED-01092,sede,formato_texto,Sede Centro Neiva,Centro Neiva
+PED-01689,sede,formato_texto,Sede Cabecera,SEDE CABECERA
+PED-01677,sede,formato_texto,Sede Norte Neiva,SEDE NORTE NEIVA
+PED-00902,sede,formato_texto,Sede Norte Neiva,Norte Neiva
+PED-00510,sede,formato_texto,Sede Usaquén,Usaquén
+PED-01096,sede,formato_texto,Sede Norte Neiva,Norte Neiva
+PED-00884,sede,formato_texto,Sede Chapinero,Chapinero
+PED-01127,sede,formato_texto,Sede Norte Neiva,Sede Norte Neiva  
+PED-01438,sede,formato_texto,Sede Centro Neiva,Sede Centro Neiva  
+PED-00946,sede,formato_texto,Sede Centro Neiva,SEDE CENTRO NEIVA
+PED-00073,sede,formato_texto,Sede Pitalito,Sede Pitalito  
+PED-00443,sede,formato_texto,Sede Granada,Granada
+PED-01459,sede,formato_texto,Sede Centro Neiva,Centro Neiva
+PED-00050,sede,formato_texto,Sede Usaquén,Sede Usaquén  
+PED-01148,sede,formato_texto,Sede Centro Neiva,Sede Centro Neiva  
+PED-00579,sede,formato_texto,Sede Chapinero,SEDE CHAPINERO
+PED-00541,sede,formato_texto,Sede Ibagué,SEDE IBAGUÉ
+PED-00213,sede,formato_texto,Sede Pitalito,Sede Pitalito  
+PED-00180,sede,formato_texto,Sede Usaquén,SEDE USAQUÉN
+PED-01659,sede,formato_texto,Sede Norte Neiva,Sede Norte Neiva  
+PED-01703,sede,formato_texto,Sede Usaquén,Sede Usaquén  
+PED-00110,sede,formato_texto,Sede Chapinero,Sede Chapinero  
+PED-00312,sede,formato_texto,Sede Granada,SEDE GRANADA
+PED-00302,sede,formato_texto,Sede Norte Neiva,Sede Norte Neiva  
+PED-01921,sede,formato_texto,Sede Cabecera,Sede Cabecera  
+PED-01995,sede,formato_texto,Sede Chapinero,SEDE CHAPINERO
+PED-01769,sede,formato_texto,Sede Cabecera,Sede Cabecera  
+PED-01106,sede,formato_texto,Sede Norte Neiva,Norte Neiva
+PED-01974,sede,formato_texto,Sede Centro Neiva,SEDE CENTRO NEIVA
+PED-01810,sede,formato_texto,Sede Granada,Granada
+PED-00468,sede,formato_texto,Sede Chapinero,Chapinero
+PED-01541,sede,formato_texto,Sede El Poblado,Sede El Poblado  
+PED-01551,sede,formato_texto,Sede Cabecera,Sede Cabecera  
+PED-00576,sede,formato_texto,Sede Chapinero,Chapinero
+PED-00025,sede,formato_texto,Sede Centro Neiva,SEDE CENTRO NEIVA
+PED-01935,sede,formato_texto,Sede El Poblado,Sede El Poblado  
+PED-00734,categoria,categoria_incoherente,Comida rápida,Plato fuerte
+PED-00638,categoria,categoria_incoherente,Plato fuerte,Postre
+PED-01055,categoria,categoria_incoherente,Bebida,Entrada
+PED-01193,categoria,categoria_incoherente,Bebida,Comida rápida
+PED-01202,categoria,categoria_incoherente,Plato fuerte,Postre
+PED-00253,categoria,categoria_incoherente,Plato fuerte,Comida rápida
+PED-01101,categoria,categoria_incoherente,Postre,Plato fuerte
+PED-01119,categoria,categoria_incoherente,Comida rápida,Postre
+PED-00360,categoria,categoria_incoherente,Postre,Bebida
+PED-01746,categoria,categoria_incoherente,Plato fuerte,Comida rápida
+PED-00581,categoria,categoria_incoherente,Postre,Entrada
+PED-00921,categoria,categoria_incoherente,Bebida,Comida rápida
+PED-01254,categoria,categoria_incoherente,Bebida,Comida rápida
+PED-01964,categoria,categoria_incoherente,Bebida,Entrada
+PED-00445,categoria,categoria_incoherente,Comida rápida,Postre
+PED-00482,categoria,categoria_incoherente,Entrada,Plato fuerte
+PED-01424,categoria,categoria_incoherente,Plato fuerte,Entrada
+PED-01177,categoria,categoria_incoherente,Plato fuerte,Bebida
+PED-01559,categoria,categoria_incoherente,Comida rápida,Entrada
+PED-01989,categoria,categoria_incoherente,Bebida,Plato fuerte
+PED-01504,categoria,categoria_incoherente,Entrada,Postre
+PED-00588,categoria,categoria_incoherente,Bebida,Entrada
+PED-01753,categoria,categoria_incoherente,Postre,Comida rápida
+PED-00274,categoria,categoria_incoherente,Entrada,Postre
+PED-00771,categoria,categoria_incoherente,Entrada,Postre
+PED-00460,categoria,categoria_incoherente,Comida rápida,Bebida
+PED-00809,categoria,categoria_incoherente,Bebida,Plato fuerte
+PED-01923,categoria,categoria_incoherente,Bebida,Comida rápida
+PED-01341,categoria,categoria_incoherente,Plato fuerte,Entrada
+PED-01308,categoria,categoria_incoherente,Comida rápida,Bebida
+PED-00343,categoria,categoria_incoherente,Plato fuerte,Postre
+PED-01502,categoria,categoria_incoherente,Entrada,Plato fuerte
+PED-00355,categoria,categoria_incoherente,Plato fuerte,Comida rápida
+PED-00802,categoria,categoria_incoherente,Plato fuerte,Postre
+PED-00810,categoria,categoria_incoherente,Bebida,Comida rápida
+PED-01225,categoria,categoria_incoherente,Entrada,Plato fuerte
+PED-00054,categoria,categoria_incoherente,Plato fuerte,Entrada
+PED-01814,categoria,categoria_incoherente,Plato fuerte,Postre
+PED-01631,categoria,categoria_incoherente,Plato fuerte,Comida rápida
+PED-00474,categoria,categoria_incoherente,Entrada,Bebida
+PED-00270,categoria,categoria_incoherente,Entrada,Comida rápida
+PED-01524,categoria,categoria_incoherente,Plato fuerte,Comida rápida
+PED-00515,categoria,categoria_incoherente,Entrada,Comida rápida
+PED-00161,categoria,categoria_incoherente,Plato fuerte,Entrada
+PED-01080,categoria,categoria_incoherente,Comida rápida,Postre
+PED-01419,categoria,categoria_incoherente,Entrada,Postre
+PED-00399,categoria,categoria_incoherente,Postre,Comida rápida
+PED-00139,categoria,categoria_incoherente,Comida rápida,Plato fuerte
+PED-01463,categoria,categoria_incoherente,Plato fuerte,Postre
+PED-00874,categoria,categoria_incoherente,Postre,Entrada
+PED-01331,categoria,formato_texto,Entrada,Rapida
+PED-01212,categoria,formato_texto,Postre,Rapida
+PED-01547,categoria,formato_texto,Entrada,PLATO FUERTE
+PED-01330,categoria,formato_texto,Comida rápida,Rapida
+PED-00382,categoria,formato_texto,Plato fuerte,bebidas
+PED-01440,categoria,formato_texto,Plato fuerte,Rapida
+PED-00218,categoria,formato_texto,Bebida,Rapida
+PED-00446,categoria,formato_texto,Comida rápida,PLATO FUERTE
+PED-01685,categoria,formato_texto,Plato fuerte,postres
+PED-00247,categoria,formato_texto,Entrada,PLATO FUERTE
+PED-01900,categoria,formato_texto,Bebida,Rapida
+PED-00232,categoria,formato_texto,Bebida,bebidas
+PED-01689,categoria,formato_texto,Bebida,Rapida
+PED-00262,categoria,formato_texto,Entrada,Rapida
+PED-00599,categoria,formato_texto,Plato fuerte,Rapida
+PED-00113,categoria,formato_texto,Entrada,PLATO FUERTE
+PED-01171,categoria,formato_texto,Bebida,PLATO FUERTE
+PED-01534,categoria,formato_texto,Plato fuerte,bebidas
+PED-00873,categoria,formato_texto,Comida rápida,postres
+PED-00189,categoria,formato_texto,Entrada,Rapida
+PED-01071,categoria,formato_texto,Postre,postres
+PED-01538,categoria,formato_texto,Plato fuerte,Rapida
+PED-01227,categoria,formato_texto,Bebida,postres
+PED-00558,categoria,formato_texto,Entrada,Rapida
+PED-01743,categoria,formato_texto,Entrada,Rapida
+PED-00772,categoria,formato_texto,Bebida,Rapida
+PED-00362,categoria,formato_texto,Entrada,bebidas
+PED-00192,categoria,formato_texto,Plato fuerte,PLATO FUERTE
+PED-01978,categoria,formato_texto,Plato fuerte,postres
+PED-00067,categoria,formato_texto,Plato fuerte,bebidas
+PED-01840,categoria,formato_texto,Comida rápida,bebidas
+PED-01248,categoria,formato_texto,Bebida,Rapida
+PED-00646,categoria,formato_texto,Bebida,PLATO FUERTE
+PED-01994,categoria,formato_texto,Postre,Rapida
+PED-01937,categoria,formato_texto,Postre,postres
+PED-00989,categoria,formato_texto,Bebida,PLATO FUERTE
+PED-01357,categoria,formato_texto,Comida rápida,postres
+PED-01216,categoria,formato_texto,Bebida,bebidas
+PED-01405,categoria,formato_texto,Postre,bebidas
+PED-00855,categoria,formato_texto,Plato fuerte,PLATO FUERTE
+PED-00766,departamento,ciudad_dpto_incoherente,Santander,Tolima
+PED-01742,departamento,ciudad_dpto_incoherente,Huila,Valle del Cauca
+PED-01686,departamento,ciudad_dpto_incoherente,Cundinamarca,Tolima
+PED-00454,departamento,ciudad_dpto_incoherente,Huila,Antioquia
+PED-00292,departamento,ciudad_dpto_incoherente,Santander,Valle del Cauca
+PED-00601,departamento,ciudad_dpto_incoherente,Huila,Santander
+PED-01221,departamento,ciudad_dpto_incoherente,Huila,Valle del Cauca
+PED-01089,departamento,ciudad_dpto_incoherente,Antioquia,Cundinamarca
+PED-00755,departamento,ciudad_dpto_incoherente,Cundinamarca,Valle del Cauca
+PED-01885,departamento,ciudad_dpto_incoherente,Huila,Antioquia
+PED-00504,departamento,ciudad_dpto_incoherente,Tolima,Santander
+PED-00272,departamento,ciudad_dpto_incoherente,Cundinamarca,Santander
+PED-00613,departamento,ciudad_dpto_incoherente,Valle del Cauca,Huila
+PED-01253,departamento,ciudad_dpto_incoherente,Cundinamarca,Valle del Cauca
+PED-00463,departamento,ciudad_dpto_incoherente,Antioquia,Valle del Cauca
+PED-01056,departamento,ciudad_dpto_incoherente,Huila,Tolima
+PED-00729,departamento,ciudad_dpto_incoherente,Antioquia,Valle del Cauca
+PED-00843,departamento,ciudad_dpto_incoherente,Tolima,Valle del Cauca
+PED-00764,departamento,ciudad_dpto_incoherente,Antioquia,Tolima
+PED-01677,departamento,ciudad_dpto_incoherente,Huila,Cundinamarca
+PED-01868,departamento,ciudad_dpto_incoherente,Huila,Santander
+PED-00094,departamento,ciudad_dpto_incoherente,Huila,Antioquia
+PED-01639,departamento,ciudad_dpto_incoherente,Antioquia,Huila
+PED-00778,departamento,ciudad_dpto_incoherente,Huila,Santander
+PED-01833,departamento,ciudad_dpto_incoherente,Cundinamarca,Santander
+PED-00704,departamento,ciudad_dpto_incoherente,Antioquia,Huila
+PED-01964,departamento,ciudad_dpto_incoherente,Huila,Cundinamarca
+PED-01071,departamento,ciudad_dpto_incoherente,Tolima,Santander
+PED-01848,departamento,ciudad_dpto_incoherente,Antioquia,Tolima
+PED-00490,departamento,ciudad_dpto_incoherente,Huila,Santander
+PED-00787,departamento,ciudad_dpto_incoherente,Valle del Cauca,Antioquia
+PED-00686,departamento,ciudad_dpto_incoherente,Antioquia,Tolima
+PED-00813,departamento,ciudad_dpto_incoherente,Huila,Valle del Cauca
+PED-00044,departamento,ciudad_dpto_incoherente,Cundinamarca,Valle del Cauca
+PED-01349,departamento,ciudad_dpto_incoherente,Cundinamarca,Huila
+PED-01450,departamento,ciudad_dpto_incoherente,Cundinamarca,Santander
+PED-01795,departamento,ciudad_dpto_incoherente,Huila,Cundinamarca
+PED-00977,departamento,ciudad_dpto_incoherente,Cundinamarca,Valle del Cauca
+PED-01034,departamento,ciudad_dpto_incoherente,Cundinamarca,Santander
+PED-00829,departamento,ciudad_dpto_incoherente,Huila,Antioquia
+PED-01316,fecha,fecha,2026-07-01,2026/07/01
+PED-01757,fecha,fecha,2026-08-30,2026-02-30
+PED-00238,fecha,fecha,2026-02-04,02-04-2026
+PED-01265,fecha,fecha,2026-06-24,2027-03-01
+PED-00355,fecha,fecha,2026-02-21,21/02/2026
+PED-01352,fecha,fecha,2026-07-06,2026-13-05
+PED-01956,fecha,fecha,2026-09-25,25-Sep-2026
+PED-00913,fecha,fecha,2026-05-07,07-May-2026
+PED-00669,fecha,fecha,2026-04-06,2027-03-01
+PED-01590,fecha,fecha,2026-08-06,06-Aug-2026
+PED-01962,fecha,fecha,2026-09-26,26/09/2026
+PED-01601,fecha,fecha,2026-08-07,2026-02-30
+PED-01256,fecha,fecha,2026-06-23,23-Jun-2026
+PED-01206,fecha,fecha,2026-06-15,2025-12-15
+PED-01659,fecha,fecha,2026-08-17,17-Aug-2026
+PED-00256,fecha,fecha,2026-02-06,2025-12-15
+PED-00865,fecha,fecha,2026-05-01,01/05/2026
+PED-01830,fecha,fecha,2026-09-09,09-09-2026
+PED-01910,fecha,fecha,2026-09-19,2026-13-05
+PED-01450,fecha,fecha,2026-07-21,21/07/2026
+PED-00136,fecha,fecha,2026-01-21,21/01/2026
+PED-01335,fecha,fecha,2026-07-04,2026-02-30
+PED-01567,fecha,fecha,2026-08-03,2026-13-05
+PED-01199,fecha,fecha,2026-06-15,2026/06/15
+PED-01421,fecha,fecha,2026-07-16,2025-12-15
+PED-01736,fecha,fecha,2026-08-28,2026-02-30
+PED-01487,fecha,fecha,2026-07-25,07-25-2026
+PED-01978,fecha,fecha,2026-09-28,2025-12-15
+PED-00645,fecha,fecha,2026-04-02,02/04/2026
+PED-00229,fecha,fecha,2026-02-02,sin fecha
+PED-01175,fecha,fecha,2026-06-13,2025-12-15
+PED-01739,fecha,fecha,2026-08-28,28/08/2026
+PED-01650,fecha,fecha,2026-08-15,2026-13-05
+PED-01687,fecha,fecha,2026-08-21,21-Aug-2026
+PED-00976,fecha,fecha,2026-05-16,sin fecha
+PED-01685,fecha,fecha,2026-08-20,2025-12-15
+PED-01577,fecha,fecha,2026-08-04,2026-02-30
+PED-01149,fecha,fecha,2026-06-09,2026-13-05
+PED-01560,fecha,fecha,2026-08-03,2027-03-01
+PED-00717,fecha,fecha,2026-04-11,2027-03-01
+PED-01664,fecha,fecha,2026-08-18,08-18-2026
+PED-01811,fecha,fecha,2026-09-07,2026-13-05
+PED-00919,fecha,fecha,2026-05-08,08/05/2026
+PED-00738,fecha,fecha,2026-04-14,14/04/2026
+PED-01478,fecha,fecha,2026-07-23,07-23-2026
+PED-00398,fecha,fecha,2026-02-27,2026-02-30
+PED-00290,fecha,fecha,2026-02-12,2027-03-01
+PED-00956,fecha,fecha,2026-05-14,2026-13-05
+PED-01533,fecha,fecha,2026-07-31,2026-02-30
+PED-00677,fecha,fecha,2026-04-07,04-07-2026
+PED-01002,fecha,fecha,2026-05-21,21-May-2026
+PED-01011,fecha,fecha,2026-05-21,05-21-2026
+PED-01473,fecha,fecha,2026-07-23,23/07/2026
+PED-00705,fecha,fecha,2026-04-10,10/04/2026
+PED-01185,fecha,fecha,2026-06-14,2027-03-01
+PED-00337,fecha,fecha,2026-02-18,sin fecha
+PED-00486,fecha,fecha,2026-03-12,2026-13-05
+PED-01292,fecha,fecha,2026-06-28,2026/06/28
+PED-00610,fecha,fecha,2026-03-28,2026-02-30
+PED-01645,fecha,fecha,2026-08-14,2026-02-30
+PED-01339,fecha,fecha,2026-07-04,04-Jul-2026
+PED-00442,fecha,fecha,2026-03-05,2026/03/05
+PED-01748,fecha,fecha,2026-08-29,sin fecha
+PED-01133,fecha,fecha,2026-06-08,2027-03-01
+PED-01058,fecha,fecha,2026-05-29,sin fecha
+PED-00384,fecha,fecha,2026-02-25,02-25-2026
+PED-01598,fecha,fecha,2026-08-07,07-Aug-2026
+PED-00128,fecha,fecha,2026-01-21,2026/01/21
+PED-00807,fecha,fecha,2026-04-23,2026-13-05
+PED-00887,fecha,fecha,2026-05-04,2025-12-15
+PED-01069,fecha,fecha,2026-05-30,05-30-2026
+PED-00389,fecha,fecha,2026-02-26,sin fecha
+PED-00791,fecha,fecha,2026-04-21,21-Apr-2026
+PED-01884,fecha,fecha,2026-09-15,09-15-2026
+PED-01004,fecha,fecha,2026-05-21,2026-02-30
+PED-00357,fecha,fecha,2026-02-21,2025-12-15
+PED-00977,fecha,fecha,2026-05-17,2025-12-15
+PED-00857,fecha,fecha,2026-04-30,2025-12-15
+PED-01749,fecha,fecha,2026-08-29,sin fecha
+PED-01949,fecha,fecha,2026-09-25,2026/09/25
+PED-00572,fecha,fecha,2026-03-23,2026-13-05
+PED-01918,fecha,fecha,2026-09-20,09-20-2026
+PED-01503,fecha,fecha,2026-07-26,26/07/2026
+PED-00038,fecha,fecha,2026-01-07,01-07-2026
+PED-01904,fecha,fecha,2026-09-18,sin fecha
+PED-01372,fecha,fecha,2026-07-09,09/07/2026
+PED-01900,fecha,fecha,2026-09-17,17-Sep-2026
+PED-00320,fecha,fecha,2026-02-15,sin fecha
+PED-00173,fecha,fecha,2026-01-25,2026-13-05
+PED-00178,fecha,fecha,2026-01-26,2027-03-01
+PED-00710,fecha,fecha,2026-04-10,sin fecha
+PED-01273,fecha,fecha,2026-06-25,2026-02-30
+PED-00468,fecha,fecha,2026-03-09,2027-03-01
+PED-01514,fecha,fecha,2026-07-28,sin fecha
+PED-01310,fecha,fecha,2026-06-30,30/06/2026
+PED-01697,fecha,fecha,2026-08-22,2025-12-15
+PED-01922,fecha,fecha,2026-09-20,20-Sep-2026
+PED-00121,fecha,fecha,2026-01-19,sin fecha
+PED-00310,fecha,fecha,2026-02-14,2026/02/14
+PED-00912,fecha,fecha,2026-05-07,2026/05/07
+PED-01867,fecha,fecha,2026-09-13,2026-13-05
+PED-01835,fecha,fecha,2026-09-10,10/09/2026
+PED-00968,fecha,fecha,2026-05-16,16/05/2026
+PED-00339,fecha,fecha,2026-02-18,18/02/2026
+PED-01468,fecha,fecha,2026-07-23,2026-13-05
+PED-01410,fecha,fecha,2026-07-15,07-15-2026
+PED-01728,fecha,fecha,2026-08-26,26/08/2026
+PED-00269,fecha,fecha,2026-02-08,2026-02-30
+PED-01707,fecha,fecha,2026-08-23,2026-13-05
+PED-01831,fecha,fecha,2026-09-09,09-Sep-2026
+PED-01181,fecha,fecha,2026-06-13,2026/06/13
+PED-01860,fecha,fecha,2026-09-12,12-Sep-2026
+PED-00782,fecha,fecha,2026-04-20,2026-13-05
+PED-00719,fecha,fecha,2026-04-11,2025-12-15
+PED-00666,fecha,fecha,2026-04-06,2026-13-05
+PED-01373,fecha,fecha,2026-07-10,2026/07/10
+PED-00858,fecha,fecha,2026-04-30,04-30-2026
+PED-00259,fecha,fecha,2026-02-07,07-Feb-2026
+PED-01127,fecha,fecha,2026-06-07,2026-13-05
+PED-00577,fecha,fecha,2026-03-24,2027-03-01
+PED-00037,fecha,fecha,2026-01-06,2026-13-05
+PED-01864,fecha,fecha,2026-09-13,13/09/2026
+PED-01252,fecha,fecha,2026-06-23,2027-03-01
+PED-00287,fecha,fecha,2026-02-11,2026/02/11
+PED-01343,fecha,fecha,2026-07-05,07-05-2026
+PED-00513,fecha,fecha,2026-03-16,2025-12-15
+PED-00189,fecha,fecha,2026-01-27,2025-12-15
+PED-01326,fecha,fecha,2026-07-02,2027-03-01
+PED-00411,fecha,fecha,2026-03-01,2026-13-05
+PED-01628,fecha,fecha,2026-08-11,2026-02-30
+PED-00140,fecha,fecha,2026-01-22,2025-12-15
+PED-01376,fecha,fecha,2026-07-10,2025-12-15
+PED-00225,fecha,fecha,2026-02-01,2027-03-01
+PED-00996,fecha,fecha,2026-05-20,20-May-2026
+PED-01721,fecha,fecha,2026-08-25,2026-02-30
+PED-01211,fecha,fecha,2026-06-16,2026-13-05
+PED-00496,fecha,fecha,2026-03-13,2026-02-30
+PED-01591,fecha,fecha,2026-08-06,2025-12-15
+PED-01772,hora,hora,14:55,mediodia
+PED-00261,hora,hora,18:14,-
+PED-00248,hora,hora,14:02,-
+PED-01447,hora,hora,14:40,13h20
+PED-00837,hora,hora,13:16,-
+PED-00067,hora,hora,20:24,25:10
+PED-01600,hora,hora,13:25,7:5
+PED-01107,hora,hora,09:29,25:10
+PED-01802,hora,hora,11:25,25:10
+PED-01190,hora,hora,18:41,7:5
+PED-01673,hora,hora,11:05,7:5
+PED-00014,hora,hora,20:21,1:30 PM
+PED-00835,hora,hora,12:46,25:10
+PED-01640,hora,hora,12:14,12:75
+PED-00818,hora,hora,20:57,25:10
+PED-00335,hora,hora,14:04,7:5
+PED-01148,hora,hora,20:19,25:10
+PED-00322,hora,hora,13:11,-
+PED-01026,hora,hora,13:15,1:30 PM
+PED-00579,hora,hora,14:38,12:75
+PED-00251,hora,hora,11:33,1:30 PM
+PED-00465,hora,hora,19:32,7:5
+PED-01197,hora,hora,11:23,1:30 PM
+PED-00353,hora,hora,13:47,13h20
+PED-00875,hora,hora,13:01,12:75
+PED-01001,hora,hora,20:18,13h20
+PED-00577,hora,hora,14:06,25:10
+PED-01034,hora,hora,20:30,mediodia
+PED-00259,hora,hora,12:14,7:5
+PED-00963,hora,hora,13:26,-
+PED-00402,hora,hora,11:19,7:5
+PED-00117,hora,hora,19:07,mediodia
+PED-01004,hora,hora,13:55,12:75
+PED-00522,hora,hora,14:56,7:5
+PED-01076,hora,hora,12:56,-
+PED-00424,hora,hora,19:00,mediodia
+PED-01712,hora,hora,14:26,mediodia
+PED-01557,hora,hora,14:40,12:75
+PED-01763,hora,hora,14:08,mediodia
+PED-00385,hora,hora,20:31,13h20
+PED-00802,hora,hora,20:12,1:30 PM
+PED-00767,hora,hora,14:50,-
+PED-01469,hora,hora,11:44,25:10
+PED-00164,hora,hora,14:16,1:30 PM
+PED-01618,hora,hora,18:01,-
+PED-01810,hora,hora,14:28,13h20
+PED-00563,hora,hora,15:28,1:30 PM
+PED-01773,hora,hora,20:56,13h20
+PED-01794,hora,hora,12:01,25:10
+PED-00826,hora,hora,19:45,13h20
+PED-01194,hora,hora,21:45,13h20
+PED-01877,hora,hora,20:51,13h20
+PED-00699,hora,hora,13:12,7:5
+PED-00387,hora,hora,11:17,mediodia
+PED-00925,hora,hora,12:42,12:75
+PED-00704,hora,hora,12:56,1:30 PM
+PED-01874,hora,hora,nan,mediodia
+PED-00319,hora,hora,11:56,13h20
+PED-01273,hora,hora,20:27,1:30 PM
+PED-00298,hora,hora,18:58,12:75
+PED-00153,hora,hora,12:04,mediodia
+PED-00871,hora,hora,11:32,12:75
+PED-01541,hora,hora,11:46,mediodia
+PED-01187,hora,hora,14:05,13h20
+PED-01340,hora,hora,20:07,1:30 PM
+PED-00530,hora,hora,14:45,mediodia
+PED-02000,hora,hora,19:48,12:75
+PED-00489,hora,hora,18:40,7:5
+PED-01863,hora,hora,12:51,12:75
+PED-00262,hora,hora,20:51,mediodia
+PED-00713,hora,hora,11:19,12:75
+PED-01554,hora,hora,11:01,1:30 PM
+PED-00167,hora,hora,19:04,1:30 PM
+PED-00551,hora,hora,21:55,1:30 PM
+PED-01617,hora,hora,14:09,7:5
+PED-01003,hora,hora,13:05,12:75
+PED-01163,hora,hora,13:13,-
+PED-00196,hora,hora,12:04,7:5
+PED-01083,hora,hora,11:39,25:10
+PED-01289,hora,hora,19:45,13h20
+PED-00866,cantidad,cantidad,1,0
+PED-01538,cantidad,cantidad,3,3 und
+PED-00590,cantidad,cantidad,2,1.5
+PED-01009,cantidad,cantidad,2,-1
+PED-00596,cantidad,cantidad,2,-2
+PED-00266,cantidad,cantidad,4,-2
+PED-00700,cantidad,cantidad,1,-2
+PED-01941,cantidad,cantidad,2,-2
+PED-00616,cantidad,cantidad,5,dos
+PED-01910,cantidad,cantidad,3,3 und
+PED-01002,cantidad,cantidad,2,-2
+PED-00210,cantidad,cantidad,6,999
+PED-01582,cantidad,cantidad,1,999
+PED-01702,cantidad,cantidad,3,999
+PED-01375,cantidad,cantidad,1,dos
+PED-01471,cantidad,cantidad,2,0
+PED-00857,cantidad,cantidad,2,0
+PED-00449,cantidad,cantidad,1,dos
+PED-00851,cantidad,cantidad,6,1.5
+PED-00007,cantidad,cantidad,2,0
+PED-01389,cantidad,cantidad,6,-1
+PED-00762,cantidad,cantidad,2,-1
+PED-00226,cantidad,cantidad,2,-2
+PED-00499,cantidad,cantidad,1,0
+PED-00623,cantidad,cantidad,2,1.5
+PED-00378,cantidad,cantidad,2,-1
+PED-00653,cantidad,cantidad,1,-2
+PED-00761,cantidad,cantidad,4,-1
+PED-00492,cantidad,cantidad,2,3 und
+PED-01954,cantidad,cantidad,6,-1
+PED-01048,cantidad,cantidad,1,1.5
+PED-00002,cantidad,cantidad,1,0
+PED-01488,cantidad,cantidad,5,1.5
+PED-00530,cantidad,cantidad,2,999
+PED-00839,cantidad,cantidad,6,dos
+PED-01308,cantidad,cantidad,1,3 und
+PED-01594,cantidad,cantidad,6,-2
+PED-01297,cantidad,cantidad,5,-1
+PED-01024,cantidad,cantidad,2,3 und
+PED-00456,cantidad,cantidad,4,dos
+PED-01092,cantidad,cantidad,5,0
+PED-00685,cantidad,cantidad,1,-2
+PED-01526,cantidad,cantidad,2,1.5
+PED-00605,cantidad,cantidad,2,1.5
+PED-00227,cantidad,cantidad,5,-2
+PED-00514,cantidad,cantidad,4,dos
+PED-01185,cantidad,cantidad,2,1.5
+PED-01261,cantidad,cantidad,4,-1
+PED-01409,cantidad,cantidad,2,-2
+PED-00823,cantidad,cantidad,1,1.5
+PED-01218,cantidad,cantidad,2,-2
+PED-01243,cantidad,cantidad,5,-1
+PED-01654,cantidad,cantidad,1,0
+PED-00617,cantidad,cantidad,2,-1
+PED-00745,cantidad,cantidad,5,0
+PED-01440,cantidad,cantidad,6,-1
+PED-00731,cantidad,cantidad,5,3 und
+PED-01647,cantidad,cantidad,1,3 und
+PED-00587,cantidad,cantidad,2,dos
+PED-00552,cantidad,cantidad,4,1.5
+PED-01928,precio_unitario,precio,5000,"$5,000"
+PED-01844,precio_unitario,precio,15000,15.000
+PED-00722,precio_unitario,precio,32000,32.000
+PED-00893,precio_unitario,precio,10400,10.400
+PED-00039,precio_unitario,precio,27000,-27000
+PED-00838,precio_unitario,precio,41800,-41800
+PED-01058,precio_unitario,precio,41800,4180000
+PED-01758,precio_unitario,precio,9400,"$9,400"
+PED-01413,precio_unitario,precio,9000,900000
+PED-01747,precio_unitario,precio,6500,650000
+PED-00076,precio_unitario,precio,8500,gratis
+PED-00282,precio_unitario,precio,26000,26000 COP
+PED-00885,precio_unitario,precio,13200,1320000
+PED-00430,precio_unitario,precio,6500,650000
+PED-00366,precio_unitario,precio,11000,11000 COP
+PED-01929,precio_unitario,precio,12100,-12100
+PED-01696,precio_unitario,precio,9900,"$9,900"
+PED-00033,precio_unitario,precio,17600,17600 COP
+PED-01710,precio_unitario,precio,9500,0
+PED-01388,precio_unitario,precio,7000,gratis
+PED-01655,precio_unitario,precio,9900,"$9,900"
+PED-00102,precio_unitario,precio,11000,gratis
+PED-01454,precio_unitario,precio,32000,-32000
+PED-01681,precio_unitario,precio,32000,32.000
+PED-01658,precio_unitario,precio,26400,0
+PED-00493,precio_unitario,precio,7000,"$7,000"
+PED-01895,precio_unitario,precio,7700,7.700
+PED-01846,precio_unitario,precio,13200,0
+PED-01428,precio_unitario,precio,5000,500000
+PED-01489,precio_unitario,precio,29700,"$29,700"
+PED-01132,precio_unitario,precio,10400,10.400
+PED-01709,precio_unitario,precio,12000,12.000
+PED-00342,precio_unitario,precio,15000,15.000
+PED-01667,precio_unitario,precio,13200,-13200
+PED-00499,precio_unitario,precio,12000,1200000
+PED-01593,precio_unitario,precio,41800,4180000
+PED-00032,precio_unitario,precio,8500,8500 COP
+PED-01451,precio_unitario,precio,41800,gratis
+PED-00720,precio_unitario,precio,38500,gratis
+PED-00964,precio_unitario,precio,16000,-16000
+PED-01463,precio_unitario,precio,38000,38.000
+PED-01346,precio_unitario,precio,8200,0
+PED-00924,precio_unitario,precio,13200,13200 COP
+PED-00409,precio_unitario,precio,16000,"$16,000"
+PED-01490,precio_unitario,precio,15000,-15000
+PED-01323,precio_unitario,precio,7000,gratis
+PED-01850,precio_unitario,precio,26000,gratis
+PED-01270,precio_unitario,precio,11000,11.000
+PED-00147,precio_unitario,precio,26000,"$26,000"
+PED-00189,precio_unitario,precio,9400,0
+PED-00933,precio_unitario,precio,16000,0
+PED-00445,precio_unitario,precio,15000,15000 COP
+PED-00498,precio_unitario,precio,24000,gratis
+PED-01634,precio_unitario,precio,35000,35.000
+PED-01188,precio_unitario,precio,13200,0
+PED-01931,precio_unitario,precio,9000,"$9,000"
+PED-01868,precio_unitario,precio,24000,-24000
+PED-01164,precio_unitario,precio,11000,11.000
+PED-00596,precio_unitario,precio,28000,2800000
+PED-01653,precio_unitario,precio,38000,gratis
+PED-00968,precio_unitario,precio,29700,"$29,700"
+PED-01517,precio_unitario,precio,9000,0
+PED-00920,precio_unitario,precio,8500,gratis
+PED-01004,precio_unitario,precio,29700,"$29,700"
+PED-01699,precio_unitario,precio,24000,gratis
+PED-00494,precio_unitario,precio,24000,-24000
+PED-00460,precio_unitario,precio,17600,"$17,600"
+PED-00007,precio_unitario,precio,10400,-10400
+PED-00592,precio_unitario,precio,16500,1650000
+PED-00786,precio_unitario,precio,16000,-16000
+PED-00788,precio_unitario,precio,17600,0
+PED-01898,precio_unitario,precio,28000,28000 COP
+PED-00090,precio_unitario,precio,5000,gratis
+PED-01825,precio_unitario,precio,11000,11000 COP
+PED-00632,precio_unitario,precio,27000,2700000
+PED-00520,precio_unitario,precio,9000,gratis
+PED-00425,precio_unitario,precio,29700,gratis
+PED-00131,precio_unitario,precio,5000,gratis
+PED-01550,precio_unitario,precio,26000,26.000
+PED-01958,precio_unitario,precio,38000,-38000
+PED-00422,descuento_pct,descuento,20,300
+PED-01634,descuento_pct,descuento,0,10%
+PED-00303,descuento_pct,descuento,0,diez
+PED-00838,descuento_pct,descuento,5,150
+PED-00417,descuento_pct,descuento,0,0.15
+PED-01686,descuento_pct,descuento,0,150
+PED-01694,descuento_pct,descuento,0,300
+PED-00769,descuento_pct,descuento,0,-10
+PED-01687,descuento_pct,descuento,20,150
+PED-00555,descuento_pct,descuento,0,150
+PED-01782,descuento_pct,descuento,10,0.15
+PED-01557,descuento_pct,descuento,10,diez
+PED-00058,descuento_pct,descuento,20,diez
+PED-00427,descuento_pct,descuento,0,diez
+PED-00623,descuento_pct,descuento,0,-10
+PED-00718,descuento_pct,descuento,0,300
+PED-01093,descuento_pct,descuento,0,300
+PED-00528,descuento_pct,descuento,0,diez
+PED-01309,descuento_pct,descuento,20,diez
+PED-00969,descuento_pct,descuento,5,300
+PED-01537,descuento_pct,descuento,15,300
+PED-00278,descuento_pct,descuento,0,10%
+PED-01208,descuento_pct,descuento,0,-10
+PED-01539,descuento_pct,descuento,0,-10
+PED-00471,descuento_pct,descuento,10,300
+PED-00653,descuento_pct,descuento,20,diez
+PED-01027,descuento_pct,descuento,10,150
+PED-01787,descuento_pct,descuento,0,150
+PED-00742,descuento_pct,descuento,15,300
+PED-00952,descuento_pct,descuento,0,diez
+PED-00919,descuento_pct,descuento,20,300
+PED-00014,descuento_pct,descuento,0,diez
+PED-00599,descuento_pct,descuento,20,10%
+PED-01577,descuento_pct,descuento,0,150
+PED-01974,descuento_pct,descuento,10,150
+PED-00552,descuento_pct,descuento,0,diez
+PED-00841,descuento_pct,descuento,0,300
+PED-00907,descuento_pct,descuento,20,0.15
+PED-01074,descuento_pct,descuento,10,10%
+PED-00982,descuento_pct,descuento,0,diez
+PED-00877,descuento_pct,descuento,0,150
+PED-00012,descuento_pct,descuento,15,-10
+PED-00249,descuento_pct,descuento,0,150
+PED-00344,descuento_pct,descuento,0,10%
+PED-01404,descuento_pct,descuento,5,150
+PED-00164,descuento_pct,descuento,20,diez
+PED-01703,descuento_pct,descuento,0,diez
+PED-01661,descuento_pct,descuento,5,10%
+PED-00675,descuento_pct,descuento,0,diez
+PED-00761,descuento_pct,descuento,0,300
+PED-01175,costo_domicilio,domicilio,3500,-5000
+PED-01634,costo_domicilio,domicilio,0,-5000
+PED-00996,costo_domicilio,domicilio,0,5 mil
+PED-01122,costo_domicilio,domicilio,0,gratis
+PED-01909,costo_domicilio,domicilio,0,5 mil
+PED-00167,costo_domicilio,domicilio,0,gratis
+PED-01779,costo_domicilio,domicilio,0,-5000
+PED-01657,costo_domicilio,domicilio,0,5 mil
+PED-00928,costo_domicilio,domicilio,0,-5000
+PED-01591,costo_domicilio,domicilio,5500,250000
+PED-00888,costo_domicilio,domicilio,4000,5 mil
+PED-01100,costo_domicilio,domicilio,5500,-5000
+PED-01404,costo_domicilio,domicilio,0,gratis
+PED-01844,costo_domicilio,domicilio,0,5 mil
+PED-00033,costo_domicilio,domicilio,4000,gratis
+PED-00711,costo_domicilio,domicilio,0,250000
+PED-01217,costo_domicilio,domicilio,5500,250000
+PED-00560,costo_domicilio,domicilio,0,-5000
+PED-00093,costo_domicilio,domicilio,0,gratis
+PED-00942,costo_domicilio,domicilio,0,-5000
+PED-00862,costo_domicilio,domicilio,0,-5000
+PED-00483,costo_domicilio,domicilio,5000,250000
+PED-01190,costo_domicilio,domicilio,7900,250000
+PED-01294,costo_domicilio,domicilio,7900,5 mil
+PED-01065,costo_domicilio,domicilio,0,gratis
+PED-00737,costo_domicilio,domicilio,0,250000
+PED-00349,costo_domicilio,domicilio,6000,250000
+PED-01842,costo_domicilio,domicilio,0,5 mil
+PED-00383,costo_domicilio,domicilio,0,250000
+PED-00341,costo_domicilio,domicilio,4000,gratis
+PED-01364,costo_domicilio,domicilio,0,gratis
+PED-00602,costo_domicilio,domicilio,0,-5000
+PED-00536,costo_domicilio,domicilio,3500,250000
+PED-00715,costo_domicilio,domicilio,0,-5000
+PED-00697,costo_domicilio,domicilio,0,-5000
+PED-01045,costo_domicilio,domicilio,0,-5000
+PED-00698,costo_domicilio,domicilio,0,250000
+PED-00047,costo_domicilio,domicilio,4000,5 mil
+PED-00866,costo_domicilio,domicilio,5500,5 mil
+PED-00570,costo_domicilio,domicilio,0,-5000
+PED-00577,propina,propina,0,-3000
+PED-00821,propina,propina,0,voluntaria
+PED-00901,propina,propina,0,-3000
+PED-00776,propina,propina,0,voluntaria
+PED-01655,propina,propina,0,voluntaria
+PED-00398,propina,propina,1600,500000
+PED-00917,propina,propina,0,voluntaria
+PED-01859,propina,propina,0,-3000
+PED-01735,propina,propina,0,voluntaria
+PED-01656,propina,propina,0,500000
+PED-01478,propina,propina,6000,500000
+PED-00959,propina,propina,0,500000
+PED-00891,propina,propina,0,500000
+PED-01874,propina,propina,0,500000
+PED-01432,propina,propina,19200,-3000
+PED-00269,propina,propina,0,voluntaria
+PED-00169,propina,propina,0,voluntaria
+PED-00433,propina,propina,0,-3000
+PED-01081,propina,propina,0,500000
+PED-00250,propina,propina,0,-3000
+PED-01204,propina,propina,0,-3000
+PED-00963,propina,propina,2500,voluntaria
+PED-00794,propina,propina,0,voluntaria
+PED-00863,propina,propina,0,-3000
+PED-00355,propina,propina,0,500000
+PED-00617,propina,propina,1500,-3000
+PED-00018,propina,propina,0,-3000
+PED-01031,propina,propina,0,500000
+PED-01961,propina,propina,0,voluntaria
+PED-01583,propina,propina,0,500000
+PED-01031,total_pagado,total_inconsistente,71500.0,715000.0
+PED-01682,total_pagado,total_inconsistente,8300.0,0.0
+PED-00683,total_pagado,total_inconsistente,173250.0,0.0
+PED-01854,total_pagado,total_inconsistente,4500.0,104499.0
+PED-00321,total_pagado,total_inconsistente,26780.0,0.0
+PED-01451,total_pagado,total_inconsistente,92000.0,0.0
+PED-00088,total_pagado,total_inconsistente,77000.0,176999.0
+PED-00590,total_pagado,total_inconsistente,64400.0,164399.0
+PED-00685,total_pagado,total_inconsistente,45900.0,145899.0
+PED-00562,total_pagado,total_inconsistente,34700.0,347000.0
+PED-01318,total_pagado,total_inconsistente,59400.0,159399.0
+PED-00893,total_pagado,total_inconsistente,54600.0,546000.0
+PED-00719,total_pagado,total_inconsistente,12300.0,112299.0
+PED-01234,total_pagado,total_inconsistente,70000.0,169999.0
+PED-01569,total_pagado,total_inconsistente,38000.0,137999.0
+PED-00505,total_pagado,total_inconsistente,83600.0,108680.0
+PED-01334,total_pagado,total_inconsistente,18100.0,118099.0
+PED-00052,total_pagado,total_inconsistente,22000.0,0.0
+PED-01352,total_pagado,total_inconsistente,17000.0,22100.0
+PED-01501,total_pagado,total_inconsistente,20400.0,26520.0
+PED-00694,total_pagado,total_inconsistente,28800.0,0.0
+PED-01310,total_pagado,total_inconsistente,46000.0,0.0
+PED-01794,total_pagado,total_inconsistente,25500.0,125499.0
+PED-00535,total_pagado,total_inconsistente,7000.0,9100.0
+PED-00727,total_pagado,total_inconsistente,21120.0,10560.0
+PED-00492,total_pagado,total_inconsistente,69000.0,168999.0
+PED-01014,total_pagado,total_inconsistente,7345.0,107344.0
+PED-00938,total_pagado,total_inconsistente,17000.0,170000.0
+PED-01150,total_pagado,total_inconsistente,7225.0,0.0
+PED-01721,total_pagado,total_inconsistente,110000.0,209999.0
+PED-01243,total_pagado,total_inconsistente,30500.0,130499.0
+PED-01516,total_pagado,total_inconsistente,50550.0,65715.0
+PED-01337,total_pagado,total_inconsistente,68400.0,34200.0
+PED-00393,total_pagado,total_inconsistente,29700.0,297000.0
+PED-01410,total_pagado,total_inconsistente,33900.0,16950.0
+PED-00803,total_pagado,total_inconsistente,53600.0,0.0
+PED-00343,total_pagado,total_inconsistente,41150.0,0.0
+PED-01860,total_pagado,total_inconsistente,136400.0,236399.0
+PED-00358,total_pagado,total_inconsistente,13000.0,0.0
+PED-01585,total_pagado,total_inconsistente,46800.0,468000.0
+PED-00101,total_pagado,total_inconsistente,37400.0,137399.0
+PED-00487,total_pagado,total_inconsistente,20640.0,120639.0
+PED-00693,total_pagado,total_inconsistente,168000.0,0.0
+PED-00410,total_pagado,total_inconsistente,48000.0,147999.0
+PED-01082,total_pagado,total_inconsistente,149500.0,1495000.0
+PED-00231,total_pagado,total_inconsistente,83600.0,108680.0
+PED-00282,total_pagado,total_inconsistente,57200.0,74360.0
+PED-00435,total_pagado,total_inconsistente,109100.0,209099.0
+PED-01134,total_pagado,total_inconsistente,26400.0,126399.0
+PED-00549,total_pagado,total_inconsistente,13900.0,113899.0
+PED-00200,total_pagado,total_inconsistente,12120.0,0.0
+PED-00241,total_pagado,total_inconsistente,30800.0,40040.0
+PED-00127,total_pagado,total_inconsistente,9000.0,108999.0
+PED-00660,total_pagado,total_inconsistente,33600.0,0.0
+PED-00547,total_pagado,total_inconsistente,32400.0,16200.0
+PED-01850,total_pagado,total_inconsistente,70200.0,91260.0
+PED-00470,total_pagado,total_inconsistente,21600.0,0.0
+PED-01915,total_pagado,total_inconsistente,23800.0,0.0
+PED-00418,total_pagado,total_inconsistente,22950.0,0.0
+PED-00700,total_pagado,total_inconsistente,35000.0,0.0
+PED-00657,subtotal,subtotal_inconsistente,29700,30700
+PED-00479,subtotal,subtotal_inconsistente,32000,52000
+PED-00713,subtotal,subtotal_inconsistente,72600,73600
+PED-00441,subtotal,subtotal_inconsistente,45000,46000
+PED-01469,subtotal,subtotal_inconsistente,16000,36000
+PED-01090,subtotal,subtotal_inconsistente,54000,55000
+PED-01313,subtotal,subtotal_inconsistente,36000,37000
+PED-00187,subtotal,subtotal_inconsistente,12000,13000
+PED-00355,subtotal,subtotal_inconsistente,168000,163000
+PED-00641,subtotal,subtotal_inconsistente,24000,44000
+PED-01907,subtotal,subtotal_inconsistente,96000,91000
+PED-00352,subtotal,subtotal_inconsistente,36300,37300
+PED-00609,subtotal,subtotal_inconsistente,38000,39000
+PED-01349,subtotal,subtotal_inconsistente,83600,84600
+PED-00925,subtotal,subtotal_inconsistente,57200,52200
+PED-01676,subtotal,subtotal_inconsistente,10000,5000
+PED-00169,subtotal,subtotal_inconsistente,88000,83000
+PED-00555,subtotal,subtotal_inconsistente,32500,33500
+PED-00715,subtotal,subtotal_inconsistente,15000,10000
+PED-00214,subtotal,subtotal_inconsistente,60000,55000
+PED-00861,subtotal,subtotal_inconsistente,81000,101000
+PED-01088,subtotal,subtotal_inconsistente,52800,53800
+PED-00339,subtotal,subtotal_inconsistente,44000,39000
+PED-00362,subtotal,subtotal_inconsistente,28200,48200
+PED-00632,subtotal,subtotal_inconsistente,135000,136000
+PED-01516,subtotal,subtotal_inconsistente,49500,69500
+PED-01869,subtotal,subtotal_inconsistente,19500,20500
+PED-01302,subtotal,subtotal_inconsistente,16000,36000
+PED-00620,subtotal,subtotal_inconsistente,6500,26500
+PED-00026,subtotal,subtotal_inconsistente,17600,37600
+PED-01450,tiempo_preparacion_min,tiempo,28.0,20 min
+PED-01290,tiempo_preparacion_min,tiempo,16.0,20 min
+PED-01659,tiempo_preparacion_min,tiempo,28.0,rapido
+PED-00428,tiempo_preparacion_min,tiempo,23.0,-10
+PED-01108,tiempo_preparacion_min,tiempo,31.0,20 min
+PED-01846,tiempo_preparacion_min,tiempo,21.0,-10
+PED-00754,tiempo_preparacion_min,tiempo,26.0,0
+PED-01134,tiempo_preparacion_min,tiempo,25.0,20 min
+PED-01792,tiempo_preparacion_min,tiempo,24.0,20 min
+PED-00559,tiempo_preparacion_min,tiempo,21.0,-10
+PED-01413,tiempo_preparacion_min,tiempo,25.0,600
+PED-00247,tiempo_preparacion_min,tiempo,22.0,600
+PED-00723,tiempo_preparacion_min,tiempo,38.0,0
+PED-00649,tiempo_preparacion_min,tiempo,20.0,20 min
+PED-00210,tiempo_preparacion_min,tiempo,22.0,20 min
+PED-01452,tiempo_preparacion_min,tiempo,24.0,0
+PED-01589,tiempo_preparacion_min,tiempo,22.0,-10
+PED-01999,tiempo_preparacion_min,tiempo,nan,20 min
+PED-00558,tiempo_preparacion_min,tiempo,12.0,600
+PED-00288,tiempo_preparacion_min,tiempo,21.0,0
+PED-01988,tiempo_preparacion_min,tiempo,32.0,20 min
+PED-00515,tiempo_preparacion_min,tiempo,21.0,0
+PED-00888,tiempo_preparacion_min,tiempo,nan,600
+PED-00327,tiempo_preparacion_min,tiempo,16.0,20 min
+PED-00201,tiempo_preparacion_min,tiempo,20.0,0
+PED-00594,tiempo_preparacion_min,tiempo,13.0,rapido
+PED-00992,tiempo_preparacion_min,tiempo,36.0,0
+PED-01054,tiempo_preparacion_min,tiempo,19.0,0
+PED-00450,tiempo_preparacion_min,tiempo,19.0,0
+PED-01463,tiempo_preparacion_min,tiempo,29.0,20 min
+PED-00315,tiempo_preparacion_min,tiempo,34.0,600
+PED-01206,tiempo_preparacion_min,tiempo,13.0,-10
+PED-00693,tiempo_preparacion_min,tiempo,24.0,600
+PED-00828,tiempo_preparacion_min,tiempo,18.0,rapido
+PED-00451,tiempo_preparacion_min,tiempo,24.0,600
+PED-00402,tiempo_preparacion_min,tiempo,24.0,-10
+PED-00510,tiempo_preparacion_min,tiempo,31.0,0
+PED-00403,tiempo_preparacion_min,tiempo,nan,600
+PED-00106,tiempo_preparacion_min,tiempo,nan,rapido
+PED-01135,tiempo_preparacion_min,tiempo,21.0,rapido
+PED-01597,tiempo_entrega_min,tiempo,nan,media hora
+PED-01883,tiempo_entrega_min,tiempo,nan,1440
+PED-01913,tiempo_entrega_min,tiempo,nan,media hora
+PED-00080,tiempo_entrega_min,tiempo,54.0,-15
+PED-00248,tiempo_entrega_min,tiempo,nan,-15
+PED-00294,tiempo_entrega_min,tiempo,nan,-15
+PED-01477,tiempo_entrega_min,tiempo,nan,media hora
+PED-00521,tiempo_entrega_min,tiempo,nan,media hora
+PED-00486,tiempo_entrega_min,tiempo,nan,media hora
+PED-00707,tiempo_entrega_min,tiempo,nan,-15
+PED-01829,tiempo_entrega_min,tiempo,26.0,media hora
+PED-00995,tiempo_entrega_min,tiempo,nan,media hora
+PED-00471,tiempo_entrega_min,tiempo,nan,media hora
+PED-01093,tiempo_entrega_min,tiempo,48.0,media hora
+PED-01536,tiempo_entrega_min,tiempo,34.0,media hora
+PED-01485,tiempo_entrega_min,tiempo,35.0,media hora
+PED-01215,tiempo_entrega_min,tiempo,nan,1440
+PED-01674,tiempo_entrega_min,tiempo,nan,1440
+PED-00121,tiempo_entrega_min,tiempo,nan,media hora
+PED-00273,tiempo_entrega_min,tiempo,nan,1440
+PED-01745,tiempo_entrega_min,tiempo,nan,1440
+PED-01700,tiempo_entrega_min,tiempo,42.0,1440
+PED-01723,tiempo_entrega_min,tiempo,64.0,media hora
+PED-01587,tiempo_entrega_min,tiempo,nan,media hora
+PED-01481,tiempo_entrega_min,tiempo,nan,media hora
+PED-00191,tiempo_entrega_min,tiempo,43.0,-15
+PED-01165,tiempo_entrega_min,tiempo,nan,-15
+PED-00796,tiempo_entrega_min,tiempo,nan,media hora
+PED-00205,tiempo_entrega_min,tiempo,nan,media hora
+PED-00969,tiempo_entrega_min,tiempo,nan,1440
+PED-01913,calificacion,calificacion,3.0,4.5
+PED-00852,calificacion,calificacion,2.0,6
+PED-01711,calificacion,calificacion,nan,-1
+PED-01846,calificacion,calificacion,4.0,0
+PED-00575,calificacion,calificacion,nan,excelente
+PED-01023,calificacion,calificacion,nan,10
+PED-01965,calificacion,calificacion,5.0,4.5
+PED-01543,calificacion,calificacion,5.0,4.5
+PED-01986,calificacion,calificacion,4.0,10
+PED-00648,calificacion,calificacion,5.0,6
+PED-00019,calificacion,calificacion,5.0,-1
+PED-00468,calificacion,calificacion,3.0,-1
+PED-01238,calificacion,calificacion,4.0,0
+PED-01767,calificacion,calificacion,4.0,-1
+PED-00361,calificacion,calificacion,3.0,6
+PED-01755,calificacion,calificacion,5.0,4.5
+PED-00079,calificacion,calificacion,5.0,6
+PED-00532,calificacion,calificacion,4.0,0
+PED-01654,calificacion,calificacion,nan,4/5
+PED-00941,calificacion,calificacion,4.0,10
+PED-00039,calificacion,calificacion,5.0,6
+PED-01402,calificacion,calificacion,nan,0
+PED-01856,calificacion,calificacion,nan,0
+PED-00898,calificacion,calificacion,5.0,0
+PED-00105,calificacion,calificacion,2.0,4.5
+PED-00584,calificacion,calificacion,4.0,4.5
+PED-01027,calificacion,calificacion,5.0,10
+PED-00818,calificacion,calificacion,nan,excelente
+PED-00321,calificacion,calificacion,3.0,10
+PED-01937,calificacion,calificacion,5.0,excelente
+PED-01595,calificacion,calificacion,4.0,4/5
+PED-00180,calificacion,calificacion,5.0,excelente
+PED-00979,calificacion,calificacion,5.0,4/5
+PED-01962,calificacion,calificacion,4.0,6
+PED-01843,calificacion,calificacion,4.0,4/5
+PED-00931,calificacion,calificacion,5.0,4/5
+PED-01343,calificacion,calificacion,1.0,4.5
+PED-00016,calificacion,calificacion,3.0,10
+PED-00631,calificacion,calificacion,nan,0
+PED-01832,calificacion,calificacion,5.0,10
+PED-01551,calificacion,calificacion,5.0,excelente
+PED-00541,calificacion,calificacion,1.0,10
+PED-01337,calificacion,calificacion,4.0,-1
+PED-00227,calificacion,calificacion,nan,-1
+PED-00838,calificacion,calificacion,nan,excelente
+PED-00919,calificacion,calificacion,5.0,4.5
+PED-00303,calificacion,calificacion,4.0,10
+PED-01060,calificacion,calificacion,nan,0
+PED-01601,calificacion,calificacion,nan,4/5
+PED-00836,calificacion,calificacion,3.0,6
+PED-01652,id_cliente,id_cliente,CL-0438,CL-?
+PED-00702,id_cliente,id_cliente,CL-0126,cl-0126
+PED-00570,id_cliente,id_cliente,CL-0227,CL-?
+PED-00225,id_cliente,id_cliente,CL-0591,cl-0591
+PED-01486,id_cliente,id_cliente,CL-0429,CL0429
+PED-00784,id_cliente,id_cliente,CL-0051,cliente 0051
+PED-01550,id_cliente,id_cliente,CL-0174,CL0174
+PED-01633,id_cliente,id_cliente,CL-0552,CL-?
+PED-00417,id_cliente,id_cliente,CL-0565,cliente 0565
+PED-01632,id_cliente,id_cliente,CL-0466,CL-?
+PED-00085,id_cliente,id_cliente,CL-0291,cliente 0291
+PED-01499,id_cliente,id_cliente,CL-0044,cliente 0044
+PED-00865,id_cliente,id_cliente,CL-0548,CL0548
+PED-00132,id_cliente,id_cliente,CL-0043,cliente 0043
+PED-00175,id_cliente,id_cliente,CL-0303,CL0303
+PED-01597,id_cliente,id_cliente,CL-0353,CL0353
+PED-01866,id_cliente,id_cliente,CL-0302,cl-0302
+PED-01493,id_cliente,id_cliente,CL-0539,CL-?
+PED-01570,id_cliente,id_cliente,CL-0649,CL0649
+PED-00608,id_cliente,id_cliente,CL-0455,CL-?
+PED-01653,id_cliente,id_cliente,CL-0104,cliente 0104
+PED-00713,id_cliente,id_cliente,CL-0482,cliente 0482
+PED-01356,id_cliente,id_cliente,CL-0258,CL-?
+PED-01109,id_cliente,id_cliente,CL-0623,cliente 0623
+PED-01854,id_cliente,id_cliente,CL-0532,CL-?
+PED-01216,id_cliente,id_cliente,CL-0275,cliente 0275
+PED-01260,id_cliente,id_cliente,CL-0022,CL0022
+PED-01293,id_cliente,id_cliente,CL-0217,cliente 0217
+PED-01817,id_cliente,id_cliente,CL-0538,cl-0538
+PED-01488,id_cliente,id_cliente,CL-0189,cl-0189
+PED-01774,id_cliente,id_cliente,CL-0647,CL0647
+PED-01189,id_cliente,id_cliente,CL-0002,CL-?
+PED-00757,id_cliente,id_cliente,CL-0351,CL0351
+PED-01970,id_cliente,id_cliente,CL-0682,CL0682
+PED-00089,id_cliente,id_cliente,CL-0607,CL0607
+PED-01456,id_cliente,id_cliente,CL-0526,CL-?
+PED-01631,id_cliente,id_cliente,CL-0026,cl-0026
+PED-01066,id_cliente,id_cliente,CL-0141,CL-?
+PED-00718,id_cliente,id_cliente,CL-0170,cl-0170
+PED-00922,id_cliente,id_cliente,CL-0048,cl-0048
+PED-01269,plato,plato_no_catalogado,Postre de natas,Sushi roll
+PED-00992,plato,plato_no_catalogado,Bandeja paisa,Plato del día
+PED-00925,plato,plato_no_catalogado,Lechona tolimense,Plato del día
+PED-01408,plato,plato_no_catalogado,Jugo natural,Combo X
+PED-00902,plato,plato_no_catalogado,Hamburguesa artesanal,Sushi roll
+PED-01883,plato,plato_no_catalogado,Salchipapa,Combo X
+PED-00194,plato,plato_no_catalogado,Perro caliente especial,Sushi roll
+PED-01812,plato,plato_no_catalogado,Bandeja paisa,Plato del día
+PED-00026,plato,plato_no_catalogado,Perro caliente especial,Sushi roll
+PED-00910,plato,plato_no_catalogado,Lechona tolimense,Combo X
+PED-01551,plato,plato_no_catalogado,Ajiaco santafereño,Combo X
+PED-01746,plato,plato_no_catalogado,Mojarra frita,Plato del día
+PED-00121,plato,plato_no_catalogado,Postre de natas,Plato del día
+PED-01294,plato,plato_no_catalogado,Empanadas x3,Combo X
+PED-01604,plato,plato_no_catalogado,Arepa de choclo,Combo X
+PED-00200,plato,plato_no_catalogado,ACHIRAS CON CAFÉ,Sushi roll
+PED-00796,canal,canal_no_previsto,Salón,WhatsApp
+PED-00667,canal,canal_no_previsto,Salón,WhatsApp
+PED-00153,canal,canal_no_previsto,Salón,WhatsApp
+PED-00179,canal,canal_no_previsto,Salón,Uber Eats
+PED-01204,canal,canal_no_previsto,Domicilio propio,Teléfono
+PED-00124,canal,canal_no_previsto,Salón,WhatsApp
+PED-01541,canal,canal_no_previsto,Domicilio propio,WhatsApp
+PED-01198,canal,canal_no_previsto,Para llevar,Uber Eats
+PED-00207,canal,canal_no_previsto,Rappi,Uber Eats
+PED-00619,canal,canal_no_previsto,Domicilio propio,Uber Eats
+PED-01573,canal,canal_no_previsto,Salón,Uber Eats
+PED-00527,canal,canal_no_previsto,domicilio propio,WhatsApp
+PED-01933,canal,canal_no_previsto,rappi app,Teléfono
+PED-00459,canal,canal_no_previsto,Salón,Teléfono
+PED-01597,canal,canal_no_previsto,Salón,Uber Eats
+PED-01798,canal,canal_no_previsto,Salón,Teléfono
+PED-01697,canal,canal_no_previsto,Salón,Teléfono
+PED-00416,canal,canal_no_previsto,Domicilio propio,Teléfono
+PED-00744,canal,canal_no_previsto,Rappi,WhatsApp
+PED-00030,canal,canal_no_previsto,Rappi,Uber Eats
+PED-00602,estado/calificacion,cancelado_con_calificacion,,
+PED-00266,estado/calificacion,cancelado_con_calificacion,,
+PED-00463,estado/calificacion,cancelado_con_calificacion,,
+PED-00998,estado/calificacion,cancelado_con_calificacion,,
+PED-01679,estado/calificacion,cancelado_con_calificacion,,
+PED-01488,estado/calificacion,cancelado_con_calificacion,,
+PED-02000,estado/calificacion,cancelado_con_calificacion,,
+PED-01246,estado/calificacion,cancelado_con_calificacion,,
+PED-01686,estado/calificacion,cancelado_con_calificacion,,
+PED-00552,estado/calificacion,cancelado_con_calificacion,,
+PED-01382,estado/calificacion,cancelado_con_calificacion,,
+PED-01561,estado/calificacion,cancelado_con_calificacion,,
+PED-01376,estado/calificacion,cancelado_con_calificacion,,
+PED-00937,estado/calificacion,cancelado_con_calificacion,,
+PED-00220,estado/calificacion,cancelado_con_calificacion,,
+PED-00699,estado/calificacion,cancelado_con_calificacion,,
+PED-01734,estado/calificacion,cancelado_con_calificacion,,
+PED-01918,estado/calificacion,cancelado_con_calificacion,,
+PED-01327,estado/calificacion,cancelado_con_calificacion,,
+PED-00545,estado/calificacion,cancelado_con_calificacion,,
+PED-00190,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00869,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00872,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00362,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00772,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-01807,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00176,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00769,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-01906,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00678,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00564,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-01786,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00931,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-01345,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-01451,canal/costo_domicilio,salon_con_domicilio,0,5000
+PED-00675,fila,duplicado_exacto,,
+PED-01700,fila,duplicado_exacto,,
+PED-01283,fila,duplicado_exacto,,
+PED-01316,fila,duplicado_exacto,,
+PED-01211,fila,duplicado_exacto,,
+PED-01637,fila,duplicado_exacto,,
+PED-00614,fila,duplicado_exacto,,
+PED-00448,fila,duplicado_exacto,,
+PED-01132,fila,duplicado_exacto,,
+PED-00809,fila,duplicado_exacto,,
+PED-01497,fila,duplicado_exacto,,
+PED-01469,fila,duplicado_exacto,,
+PED-01683,fila,duplicado_exacto,,
+PED-01150,fila,duplicado_exacto,,
+PED-00443,fila,duplicado_exacto,,
+PED-01814,fila,duplicado_exacto,,
+PED-00655,fila,duplicado_exacto,,
+PED-01265,fila,duplicado_exacto,,
+PED-00859,fila,duplicado_exacto,,
+PED-01483,fila,duplicado_exacto,,
+PED-00232,fila,duplicado_exacto,,
+PED-01822,fila,duplicado_exacto,,
+PED-01927,fila,duplicado_exacto,,
+PED-00882,fila,duplicado_exacto,,
+PED-00632,fila,duplicado_exacto,,
+PED-00376,fila,duplicado_exacto,,
+PED-01961,fila,duplicado_exacto,,
+PED-00368,fila,duplicado_exacto,,
+PED-00559,fila,duplicado_exacto,,
+PED-00276,fila,duplicado_exacto,,
+PED-01978,fila,duplicado_exacto,,
+PED-00875,fila,duplicado_exacto,,
+PED-01679,fila,duplicado_exacto,,
+PED-00731,fila,duplicado_exacto,,
+PED-00574,fila,duplicado_exacto,,
+PED-00279,fila,id_repetido_info_distinta,,
+PED-00493,fila,id_repetido_info_distinta,,
+PED-01267,fila,id_repetido_info_distinta,,
+PED-00558,fila,id_repetido_info_distinta,,
+PED-00872,fila,id_repetido_info_distinta,,
+PED-01623,fila,id_repetido_info_distinta,,
+PED-00892,fila,id_repetido_info_distinta,,
+PED-01750,fila,id_repetido_info_distinta,,
+PED-01868,fila,id_repetido_info_distinta,,
+PED-01799,fila,id_repetido_info_distinta,,
+PED-00548,fila,id_repetido_info_distinta,,
+PED-01897,fila,id_repetido_info_distinta,,
+PED-00841,fila,id_repetido_info_distinta,,
+PED-01921,fila,id_repetido_info_distinta,,
+PED-01438,fila,id_repetido_info_distinta,,
+PED-90000,fila,fila_casi_vacia,,
+PED-90001,fila,fila_casi_vacia,,
+PED-90002,fila,fila_casi_vacia,,
+PED-90003,fila,fila_casi_vacia,,
+PED-90004,fila,fila_casi_vacia,,
+PED-90005,fila,fila_casi_vacia,,
